@@ -1,4 +1,4 @@
-# resources
+# Coding Club repo
 Tutorials and other resources
 
 
