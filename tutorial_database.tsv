@@ -1,0 +1,33 @@
+Subject	Link	Lesson type	Level	Notes
+Intro R/python/prism/data vis, etc	https://hsl.med.nyu.edu/data-a	In person, in the library	Beginner	
+bash/command line	https://www.codecademy.com/learn/learn-the-command-line	Hands on tutorial	Beginner	
+R/data vis	https://github.com/eddelbuettel/gsir-te	Hands on tutorial	Beginner	
+R	https://www.coursera.org/learn/r-programming	Videos and practice	Beginner	
+R	https://swirlstats.com/students.html	Hands on tutorial	Beginner	
+R	https://www.datacamp.com/courses/free-introduction-to-r	Hands on tutorial	Beginner	
+R	https://www.youtube.com/user/Stuar51XT	Videos	Beginner	
+R	https://www.jaredknowles.com/r-bootcamp/	Hands on tutorial	Beginner	
+R	https://www.edx.org/course/introduction-r-data-science-3	Videos and practice	Beginner	more structured, great for beginners
+Python/programming	https://courses.edx.org/courses/course-v1:MichiganX+py4e101x+1T2019/course/	Videos and practice	Beginner	GREAT course if you're totally new to programming
+Python for research	https://online-learning.harvard.edu/course/using-python-research	Videos and practice	Beginner	
+Python	https://www.codecademy.com/learn/learn-python	Hands on tutorial		
+Python	https://www.datacamp.com/courses/intro-to-python-for-data-science	Hands on tutorial		
+Python data structures	https://www.edx.org/course/python-data-structures	Videos and practice	Intermediate	
+Illustrator	https://www.youtube.com/watch?v=15CuVtoGF-8	Videos		
+Machine learning	https://www.coursera.org/learn/machine-learning/home/welcome	Videos	Beginner	Uses matlab for homeworks
+Data analysis/stats	https://www.class-central.com/course/edx-ut-7-01x-foundations-of-data-analysis-2244	Videos and practice		
+Inference and stats	https://www.class-central.com/course/edx-foundations-of-data-analysis-part-2-inferential-statistics-4804	Videos and practice	Intermediate	
+Statistics using R	https://www.coursera.org/specializations/statistics?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-9Aczl1TYUyl8ZhEFS7chLw&siteID=SAyYsTvLiGQ-9Aczl1TYUyl8ZhEFS7chLw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ	Videos and practice		Costs $$
+Stats and probability	https://www.class-central.com/course/edx-introduction-to-probability-the-science-of-uncertainty-1496	Videos and practice		
+General resource	https://ocw.mit.edu/courses/find-by-department/	MIT video lectures on many topics		
+ML blog	https://brohrer.github.io/blog.html			
+Insight Data Science/Engineering Fellowship	https://www.insightdataengineering.com/	Fellowship Info		
+Insight Data Engineering Coding Challenge	https://github.com/InsightDataScience/pharmacy_counting	2018 Coding Challenge 		
+Insight Challenges/Workshops	https://github.com/InsightDataScience			
+Data science	https://github.com/rafalab/ds4stats	Lectures, hands on stuff I think		
+BigPurple sequencing analysis pipelines	https://github.com/igordot/sns	Easy to use pipelines for sequencing analysis	Super easy	Igor Dolgalev made this for sequencing analysis at NYU, it's EXTREMELY easy to use and wonderful
+Teaching material from Ben Langmead's lab	http://www.langmead-lab.org/teaching-materials/	lectures and associated code (algorithms, python, go)	intermediate	
+Analysis of single cell RNA-seq data	https://hemberg-lab.github.io/scRNA.seq.course/index.html	Videos and texts on how to analyze scRNA-seq from .fastq to biological interpretation.	Intermediate	R. May not based on the R packages but learn from its logic. You can follow up with Seurat.
+Python data science resources	https://github.com/r0f1/datascience	list of resources		
+linux/shell scripting	https://www.dropbox.com/s/k7athu9i8lmmeln/Linux%20Cheat%20Sheet%20David%20Relyea.pdf https://www.youtube.com/playlist?list=PLdfA2CrAqQ5kB8iSbm5FB1ADVdBeOzVqZ	cheat sheet + videos		
+Data manipulation in R (tidyverse)	https://ariel.rbind.io/workshop/datamanip/	code/workshop	Beginner	
