@@ -2,10 +2,10 @@
 
 ### Tentative dates for upcoming tutorials:
 
-**May 16th:** Git and github tutorial  
-**May 23rd:** Intro to pandas in python  
-**May 30th:** Data analysis in R  
-**June 4th:** Docker/singularity and productivity tools  
+**May 16th:** Git and github tutorial, Sarah Shaykevich, SB 909   
+**May 23rd:** Intro to pandas in python, Lili Blumenberg, SB 1320  
+**May 30th:** Data analysis in R, Kit McDonald, SB 1320  
+**June 4th:** Docker/singularity and productivity tools, Vincent Major, SB 1320  
 
 
 ### Invite to slack:
