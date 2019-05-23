@@ -1,0 +1,791 @@
+passengerID	sex	age	alive
+passenger125	male	12.0	yes
+passenger31	female		yes
+passenger247	female	24.0	yes
+passenger102	male	21.0	no
+passenger502	female		no
+passenger526	female	50.0	yes
+passenger11	female	58.0	yes
+passenger588	male	22.0	no
+passenger242	male	29.0	no
+passenger841	male	16.0	no
+passenger741	male	36.0	no
+passenger718	male		no
+passenger228	male	18.0	no
+passenger18	female	31.0	no
+passenger389	female	17.0	yes
+passenger690	male	31.0	yes
+passenger658	male	23.0	no
+passenger611	male		no
+passenger767	female	30.5	no
+passenger388	male		no
+passenger417	female	18.0	yes
+passenger428	male		no
+passenger646	male	19.0	no
+passenger595	male	36.0	no
+passenger394	female	24.0	yes
+passenger97	male	23.0	yes
+passenger501	female	21.0	no
+passenger197	male	42.0	no
+passenger445	male	4.0	yes
+passenger523	female	44.0	yes
+passenger885	female	39.0	no
+passenger214	male		no
+passenger343	male	25.0	no
+passenger617	female	26.0	no
+passenger535	female	7.0	yes
+passenger138	male	16.0	no
+passenger777	female	5.0	yes
+passenger823	female	27.0	yes
+passenger808	male	39.0	no
+passenger887	female	19.0	yes
+passenger101	male		no
+passenger340	male	2.0	yes
+passenger506	female	33.0	yes
+passenger435	female	14.0	yes
+passenger663	male	36.0	no
+passenger288	male	42.0	yes
+passenger602	male		no
+passenger888	female		no
+passenger699	male	42.0	no
+passenger730	female	29.0	yes
+passenger746	male	16.0	no
+passenger856	female	45.0	yes
+passenger536	male	45.0	no
+passenger745	male	70.0	no
+passenger750	female	4.0	yes
+passenger821	male	27.0	yes
+passenger237	female	8.0	yes
+passenger386	male	1.0	no
+passenger362	female	45.0	no
+passenger267	male	25.0	yes
+passenger360	male	40.0	no
+passenger426	female	28.0	yes
+passenger167	female	45.0	no
+passenger147	female	9.0	no
+passenger410	male		no
+passenger90	male	29.0	no
+passenger878	male		no
+passenger69	male	26.0	no
+passenger497	male		no
+passenger640	male	20.0	no
+passenger393	female	23.0	yes
+passenger726	female	30.0	yes
+passenger666	male	25.0	no
+passenger527	male		no
+passenger520	female	30.0	yes
+passenger788	male	1.0	yes
+passenger517	male		no
+passenger236	male	44.0	no
+passenger486	female	35.0	yes
+passenger117	male	29.0	no
+passenger512	male	36.0	yes
+passenger599	male	49.0	yes
+passenger271	male	25.0	yes
+passenger358	female		yes
+passenger748	male	19.0	no
+passenger234	male	24.0	no
+passenger238	male	19.0	no
+passenger26	male		no
+passenger175	male	18.0	no
+passenger313	male	28.0	no
+passenger61	female	38.0	yes
+passenger575	male	19.0	no
+passenger786	female	18.0	yes
+passenger408	male	21.0	no
+passenger872	male	33.0	no
+passenger52	female	49.0	yes
+passenger622	male	20.0	yes
+passenger150	male	51.0	no
+passenger196	male		no
+passenger840	male	20.0	no
+passenger416	female	34.0	yes
+passenger886	male	27.0	no
+passenger579	male	32.0	yes
+passenger649	female	23.0	yes
+passenger398	male	23.0	no
+passenger292	male	36.0	no
+passenger772	female	57.0	no
+passenger570	male	62.0	yes
+passenger123	female	32.5	yes
+passenger299	female	50.0	yes
+passenger879	female	56.0	yes
+passenger111	female	14.5	no
+passenger471	male	38.0	no
+passenger555	male	62.0	no
+passenger860	male	41.0	no
+passenger407	male	3.0	yes
+passenger607	male	27.0	yes
+passenger800	male	34.0	no
+passenger525	male	40.5	no
+passenger200	male	28.0	no
+passenger644	female	0.75	yes
+passenger380	female	42.0	yes
+passenger540	female	36.0	yes
+passenger116	male	70.5	no
+passenger427	female	19.0	yes
+passenger195	female	58.0	yes
+passenger95	male		no
+passenger668	male	43.0	no
+passenger729	female	25.0	no
+passenger608	female	22.0	yes
+passenger569	male	32.0	yes
+passenger54	male	65.0	no
+passenger29	male		no
+passenger319	female	40.0	yes
+passenger601	male		no
+passenger590	male	35.0	no
+passenger131	male	20.0	no
+passenger184	female	4.0	yes
+passenger323	female	22.0	yes
+passenger316	female	24.0	yes
+passenger584	male		no
+passenger790	male		no
+passenger233	female	5.0	yes
+passenger762	male	20.0	yes
+passenger187	male	45.0	yes
+passenger574	male	16.0	no
+passenger328	female	31.0	yes
+passenger515	male	47.0	no
+passenger293	female	24.0	no
+passenger379	male	19.0	no
+passenger554	female	22.0	yes
+passenger714	male	52.0	no
+passenger657	female	32.0	no
+passenger21	male	34.0	yes
+passenger623	male	21.0	no
+passenger725	male	20.0	no
+passenger656	male		no
+passenger256	female		yes
+passenger229	female		no
+passenger616	male	34.0	no
+passenger544	male	50.0	no
+passenger881	male	33.0	no
+passenger870	male	26.0	no
+passenger542	female	11.0	no
+passenger93	male	26.0	no
+passenger320	male	22.0	no
+passenger548	male	33.0	no
+passenger474	female	22.0	no
+passenger158	male		no
+passenger614	male	35.0	no
+passenger475	male		no
+passenger359	female		yes
+passenger300	female		yes
+passenger642	female	2.0	no
+passenger344	male	36.0	no
+passenger597	male	49.0	no
+passenger296	male	23.5	no
+passenger377	male	27.0	no
+passenger442	male	25.0	no
+passenger403	male	28.0	no
+passenger867	male	31.0	no
+passenger24	female	8.0	no
+passenger303	female		yes
+passenger133	female	29.0	yes
+passenger280	male	65.0	no
+passenger472	female	33.0	yes
+passenger219	male	30.0	no
+passenger304	male		no
+passenger572	male	36.0	yes
+passenger503	female	37.0	no
+passenger301	male		yes
+passenger246	female	25.0	no
+passenger44	female	19.0	yes
+passenger15	female	55.0	yes
+passenger354	male		no
+passenger154	male		no
+passenger638	female	41.0	no
+passenger321	male	27.0	no
+passenger817	male	31.0	no
+passenger342	male	28.0	no
+passenger224	male	38.0	yes
+passenger227	male	20.5	no
+passenger707	male	42.0	yes
+passenger334	female		yes
+passenger423	female	28.0	no
+passenger412	female	33.0	yes
+passenger877	male	19.0	no
+passenger257	female	30.0	yes
+passenger180	female		no
+passenger55	male		yes
+passenger667	male		no
+passenger309	female	30.0	yes
+passenger215	female	31.0	yes
+passenger826	male		no
+passenger205	female	2.0	no
+passenger152	male	55.5	no
+passenger539	female	22.0	yes
+passenger361	male	29.0	no
+passenger625	male	61.0	no
+passenger112	male	22.0	no
+passenger56	female	21.0	yes
+passenger621	male	42.0	yes
+passenger509	male	26.0	yes
+passenger49	female	18.0	no
+passenger830	female	15.0	yes
+passenger46	male		no
+passenger716	female	38.0	yes
+passenger20	male	35.0	no
+passenger545	male	64.0	no
+passenger626	male	57.0	no
+passenger83	male	28.0	no
+passenger451	male		no
+passenger516	female	34.0	yes
+passenger381	female	1.0	yes
+passenger153	male	40.5	no
+passenger341	female	24.0	yes
+passenger687	male	19.0	no
+passenger2	female	26.0	yes
+passenger473	female	23.0	yes
+passenger675	male	18.0	no
+passenger637	male	31.0	no
+passenger766	male		no
+passenger610	female	39.0	no
+passenger401	male	26.0	no
+passenger178	male	30.0	no
+passenger693	male	25.0	no
+passenger634	female	9.0	no
+passenger859	male		no
+passenger430	male	28.0	yes
+passenger556	female	48.0	yes
+passenger204	male	18.0	yes
+passenger558	female	39.0	yes
+passenger564	female		no
+passenger225	male	22.0	no
+passenger538	male		no
+passenger13	male	39.0	no
+passenger440	female	45.0	yes
+passenger758	male	34.0	no
+passenger775	male	18.0	no
+passenger365	male	30.0	no
+passenger166	female		yes
+passenger58	female	5.0	yes
+passenger837	male		no
+passenger585	female	18.0	yes
+passenger483	female	63.0	yes
+passenger650	male		no
+passenger507	male		yes
+passenger210	male	24.0	no
+passenger645	male	48.0	yes
+passenger222	male	51.0	no
+passenger882	female	22.0	no
+passenger351	male		no
+passenger290	female	26.0	yes
+passenger132	female	47.0	no
+passenger805	male	31.0	no
+passenger452	male	30.0	no
+passenger654	female	18.0	no
+passenger145	male	19.0	no
+passenger671	male	31.0	no
+passenger275	female	63.0	yes
+passenger400	male	39.0	yes
+passenger651	female	18.0	yes
+passenger259	female	50.0	yes
+passenger310	female	24.0	yes
+passenger36	male		yes
+passenger529	male	23.0	no
+passenger199	female	24.0	no
+passenger375	female		yes
+passenger276	female	45.0	no
+passenger721	male	17.0	no
+passenger447	male	34.0	yes
+passenger682	male	20.0	no
+passenger727	female		yes
+passenger819	male	10.0	no
+passenger530	female	2.0	yes
+passenger627	female	21.0	yes
+passenger752	male	33.0	no
+passenger248	male	37.0	yes
+passenger30	male	40.0	no
+passenger454	male		no
+passenger694	male	60.0	no
+passenger605	male	36.0	no
+passenger329	female	16.0	yes
+passenger829	female	62.0	yes
+passenger731	male	11.0	no
+passenger332	male	38.0	no
+passenger85	female	33.0	yes
+passenger600	female	24.0	yes
+passenger755	male	0.67	yes
+passenger185	male		no
+passenger424	male	18.0	no
+passenger838	male	32.0	yes
+passenger612	female		yes
+passenger311	female	18.0	yes
+passenger374	female	3.0	no
+passenger457	female		yes
+passenger543	male	32.0	yes
+passenger685	male	25.0	no
+passenger815	male		no
+passenger489	male	9.0	yes
+passenger550	male	17.0	yes
+passenger349	male	42.0	no
+passenger728	male	25.0	no
+passenger876	male	20.0	no
+passenger216	female	27.0	yes
+passenger6	male	54.0	no
+passenger799	female	30.0	no
+passenger513	female	54.0	yes
+passenger28	female		yes
+passenger281	male	28.0	no
+passenger462	male	47.0	no
+passenger784	male	25.0	no
+passenger736	female	48.0	no
+passenger477	male	29.0	no
+passenger628	male	26.0	no
+passenger633	male		no
+passenger231	male	29.0	no
+passenger100	female	28.0	no
+passenger91	male	20.0	no
+passenger84	female	17.0	yes
+passenger251	female	29.0	no
+passenger77	male		no
+passenger352	male	15.0	no
+passenger34	male	28.0	no
+passenger108	male	38.0	no
+passenger498	female	25.0	no
+passenger852	female	9.0	no
+passenger414	male	44.0	yes
+passenger422	male	29.0	no
+passenger338	male	45.0	yes
+passenger566	male	19.0	no
+passenger444	male		yes
+passenger583	male	36.0	no
+passenger875	female	15.0	yes
+passenger249	male	54.0	no
+passenger9	female	14.0	yes
+passenger103	male	33.0	no
+passenger708	female	22.0	yes
+passenger240	female		no
+passenger884	male	25.0	no
+passenger458	female	50.0	yes
+passenger855	female	18.0	yes
+passenger273	male	37.0	no
+passenger779	female	43.0	yes
+passenger62	male	45.0	no
+passenger45	male		no
+passenger873	male	47.0	no
+passenger816	female	23.0	no
+passenger822	male	38.0	no
+passenger94	male	59.0	no
+passenger674	male		no
+passenger631	male	51.0	no
+passenger79	female	30.0	yes
+passenger71	female	16.0	no
+passenger295	male		no
+passenger139	male	24.0	no
+passenger615	female	24.0	yes
+passenger347	female		yes
+passenger106	female	21.0	yes
+passenger390	male	36.0	yes
+passenger717	female	27.0	yes
+passenger109	female		yes
+passenger576	female	34.0	yes
+passenger773	male		no
+passenger632	male	32.0	yes
+passenger796	female	49.0	yes
+passenger181	male		no
+passenger561	male	40.0	no
+passenger80	male	22.0	no
+passenger182	male	9.0	no
+passenger124	male	54.0	no
+passenger680	female		no
+passenger373	male	22.0	no
+passenger803	male	0.42	yes
+passenger156	female	16.0	yes
+passenger51	male	21.0	no
+passenger565	male	24.0	no
+passenger598	male		no
+passenger732	male		no
+passenger692	male		yes
+passenger253	male	30.0	no
+passenger864	male	24.0	no
+passenger604	male	35.0	yes
+passenger144	male	18.0	no
+passenger364	male		no
+passenger331	male	45.5	no
+passenger719	male	33.0	no
+passenger126	male		no
+passenger217	male	42.0	no
+passenger265	male	36.0	no
+passenger568	male		no
+passenger70	male	32.0	no
+passenger783	male		no
+passenger397	male	46.0	no
+passenger314	male	43.0	no
+passenger665	male	32.0	no
+passenger528	male	39.0	no
+passenger3	female	35.0	yes
+passenger785	male	25.0	no
+passenger226	male	19.0	yes
+passenger7	male	2.0	no
+passenger88	female	23.0	yes
+passenger495	male		no
+passenger392	male	28.0	no
+passenger284	male		no
+passenger212	male	22.0	no
+passenger289	female	22.0	yes
+passenger333	male	16.0	no
+passenger136	female	19.0	yes
+passenger438	male	64.0	no
+passenger647	male	56.0	yes
+passenger429	male	32.0	yes
+passenger396	female	31.0	no
+passenger449	male	52.0	yes
+passenger836	male	21.0	no
+passenger274	female		yes
+passenger279	female	35.0	yes
+passenger460	male	48.0	yes
+passenger367	female		yes
+passenger697	female		yes
+passenger82	female		yes
+passenger759	female	33.0	yes
+passenger724	male	27.0	yes
+passenger218	female	32.0	yes
+passenger415	female		no
+passenger443	female	28.0	yes
+passenger235	female		no
+passenger14	female	14.0	no
+passenger74	male	32.0	yes
+passenger255	female	29.0	yes
+passenger551	male	27.0	no
+passenger263	male	40.0	no
+passenger691	female	4.0	yes
+passenger322	female	30.0	yes
+passenger294	male	24.0	no
+passenger129	male	45.0	no
+passenger701	male	35.0	yes
+passenger353	male	25.0	no
+passenger420	male		no
+passenger505	male	18.0	no
+passenger880	female	25.0	yes
+passenger661	male	40.0	no
+passenger146	male	27.0	yes
+passenger710	female	24.0	yes
+passenger812	male	35.0	no
+passenger751	male	6.0	yes
+passenger620	male	27.0	no
+passenger794	male	25.0	no
+passenger560	male		no
+passenger135	male	23.0	no
+passenger406	male	51.0	no
+passenger113	female	20.0	no
+passenger660	male	50.0	yes
+passenger141	female	22.0	yes
+passenger563	male		no
+passenger86	male	16.0	no
+passenger268	female	58.0	yes
+passenger437	female	24.0	yes
+passenger709	male		yes
+passenger522	male		no
+passenger346	female	40.0	yes
+passenger676	male	24.5	no
+passenger866	female	27.0	yes
+passenger208	female	16.0	yes
+passenger260	male		no
+passenger335	male		no
+passenger189	male	36.0	no
+passenger230	female	35.0	yes
+passenger802	male	11.0	yes
+passenger461	male	34.0	no
+passenger791	male	16.0	no
+passenger282	male	16.0	no
+passenger510	male	29.0	yes
+passenger174	male	56.0	no
+passenger734	male	23.0	no
+passenger853	female	16.0	yes
+passenger858	female	24.0	yes
+passenger592	male	47.0	no
+passenger317	male	54.0	no
+passenger66	female	29.0	yes
+passenger703	male	25.0	no
+passenger789	male	46.0	no
+passenger223	male		no
+passenger673	male	31.0	yes
+passenger372	male	19.0	no
+passenger266	male	16.0	no
+passenger151	female	22.0	yes
+passenger339	male	45.0	no
+passenger659	male	58.0	no
+passenger883	male	28.0	no
+passenger532	male	17.0	no
+passenger847	male	35.0	no
+passenger163	male	17.0	no
+passenger862	female	48.0	yes
+passenger191	male	19.0	no
+passenger810	male	26.0	no
+passenger814	male	30.5	no
+passenger433	male	17.0	no
+passenger488	male	30.0	no
+passenger848	male	28.0	no
+passenger67	male	19.0	no
+passenger89	male	24.0	no
+passenger165	male	9.0	yes
+passenger630	male	80.0	yes
+passenger148	male	36.5	no
+passenger761	male	41.0	no
+passenger315	female	26.0	yes
+passenger48	male		no
+passenger780	female	13.0	yes
+passenger285	male	33.0	no
+passenger643	male		yes
+passenger232	male	59.0	no
+passenger833	male	23.0	no
+passenger254	female	41.0	no
+passenger431	female		yes
+passenger330	female		yes
+passenger172	female	1.0	yes
+passenger769	male	32.0	no
+passenger580	female	25.0	yes
+passenger639	male		no
+passenger494	male	21.0	no
+passenger32	female		yes
+passenger587	male	60.0	yes
+passenger119	female	2.0	no
+passenger72	male	21.0	no
+passenger835	female	39.0	yes
+passenger740	male		yes
+passenger114	female	17.0	no
+passenger122	male	32.5	no
+passenger464	male		no
+passenger298	male		yes
+passenger722	male	34.0	no
+passenger308	male	30.0	no
+passenger874	female	28.0	yes
+passenger73	male	26.0	no
+passenger261	male	3.0	yes
+passenger421	male	21.0	no
+passenger10	female	4.0	yes
+passenger272	female	41.0	yes
+passenger169	male	28.0	no
+passenger107	male		yes
+passenger845	male	42.0	no
+passenger764	male	16.0	no
+passenger778	male		no
+passenger65	male		yes
+passenger409	female		no
+passenger395	male	22.0	no
+passenger345	female	24.0	yes
+passenger547	male		yes
+passenger87	male		no
+passenger17	male		yes
+passenger371	male	18.0	no
+passenger606	male	30.0	no
+passenger781	female	17.0	yes
+passenger162	male	26.0	no
+passenger43	female	3.0	yes
+passenger96	male	71.0	no
+passenger76	male		no
+passenger492	male	55.0	no
+passenger753	male	23.0	no
+passenger269	female	35.0	yes
+passenger807	female	18.0	no
+passenger161	female	40.0	yes
+passenger171	male	4.0	no
+passenger25	female	38.0	yes
+passenger669	female		yes
+passenger176	male		no
+passenger534	female	30.0	no
+passenger733	male	23.0	no
+passenger287	male	22.0	no
+passenger378	male	20.0	no
+passenger624	male	21.0	no
+passenger121	male		no
+passenger636	male	32.0	no
+passenger677	female	18.0	yes
+passenger797	female	31.0	yes
+passenger155	male	51.0	no
+passenger50	male	7.0	no
+passenger40	female	40.0	no
+passenger110	male	47.0	no
+passenger370	male	25.0	yes
+passenger593	female		no
+passenger306	female		yes
+passenger811	male	39.0	no
+passenger476	male	34.0	no
+passenger828	male		yes
+passenger695	male	52.0	no
+passenger453	male	49.0	yes
+passenger149	male	42.0	no
+passenger179	male	36.0	no
+passenger696	male	44.0	no
+passenger194	female	44.0	yes
+passenger37	male	21.0	no
+passenger78	male	0.83	yes
+passenger798	male	30.0	no
+passenger441	male	20.0	no
+passenger277	male		no
+passenger425	male		no
+passenger220	male	16.0	yes
+passenger404	female	20.0	no
+passenger118	male	24.0	no
+passenger664	male	20.0	yes
+passenger653	female		yes
+passenger382	male	32.0	no
+passenger871	female	47.0	yes
+passenger711	male		no
+passenger312	female	26.0	no
+passenger712	male	48.0	yes
+passenger843	male	34.5	no
+passenger801	female	31.0	yes
+passenger754	female	48.0	yes
+passenger448	female	5.0	yes
+passenger22	female	15.0	yes
+passenger465	male	38.0	no
+passenger504	female	16.0	yes
+passenger757	male	18.0	no
+passenger446	female	13.0	yes
+passenger183	male	1.0	yes
+passenger749	male	31.0	no
+passenger768	male		no
+passenger142	female	24.0	yes
+passenger468	male		no
+passenger221	male	27.0	no
+passenger831	male	0.83	yes
+passenger348	male	3.0	yes
+passenger432	female	42.0	yes
+passenger63	male	4.0	no
+passenger81	male	29.0	yes
+passenger173	male	21.0	no
+passenger419	female	10.0	no
+passenger491	male	21.0	no
+passenger143	male	19.0	no
+passenger385	male	18.0	no
+passenger782	male	29.0	no
+passenger723	male	50.0	no
+passenger213	male	30.0	no
+passenger537	female	30.0	yes
+passenger557	male		no
+passenger609	female	40.0	yes
+passenger704	male	26.0	no
+passenger868	male		no
+passenger411	male		no
+passenger681	male	27.0	yes
+passenger518	female	36.0	yes
+passenger813	female	6.0	no
+passenger496	female	54.0	yes
+passenger589	male		no
+passenger467	male	56.0	no
+passenger245	male	44.0	no
+passenger742	female	21.0	yes
+passenger889	male	26.0	yes
+passenger376	female	22.0	yes
+passenger792	female		no
+passenger765	female	51.0	yes
+passenger834	male	18.0	no
+passenger193	male	3.0	yes
+passenger573	female		yes
+passenger832	male		no
+passenger140	female		no
+passenger35	male	42.0	no
+passenger450	male	36.0	no
+passenger793	male		no
+passenger844	male	17.0	no
+passenger434	male	50.0	no
+passenger283	male	19.0	yes
+passenger479	female	2.0	yes
+passenger553	male	22.0	yes
+passenger258	female	35.0	yes
+passenger57	male	28.5	no
+passenger128	female		yes
+passenger827	male	1.0	yes
+passenger130	male	33.0	no
+passenger92	male	46.0	no
+passenger787	male	8.0	no
+passenger713	male	29.0	no
+passenger493	male	71.0	no
+passenger739	male		no
+passenger241	female		yes
+passenger670	female	40.0	yes
+passenger760	male		no
+passenger508	male	28.0	no
+passenger470	male		no
+passenger198	female		yes
+passenger698	male	49.0	no
+passenger519	male	32.0	no
+passenger756	male	28.0	no
+passenger206	male	32.0	no
+passenger243	male	22.0	no
+passenger825	male		no
+passenger857	male	51.0	yes
+passenger327	female	36.0	yes
+passenger262	male	52.0	no
+passenger541	female	9.0	no
+passenger603	male	44.0	no
+passenger618	female	4.0	yes
+passenger160	male	44.0	no
+passenger485	female		no
+passenger27	male	19.0	no
+passenger307	female	17.0	yes
+passenger678	female	43.0	no
+passenger302	male	19.0	no
+passenger743	male	24.0	no
+passenger662	male	47.0	no
+passenger863	female		no
+passenger164	male	1.0	no
+passenger104	male	37.0	no
+passenger324	male		no
+passenger413	male		no
+passenger466	male		no
+passenger252	male	62.0	no
+passenger619	male	26.0	no
+passenger60	male	22.0	no
+passenger776	male		no
+passenger12	male	20.0	no
+passenger635	female	28.0	yes
+passenger684	male	60.0	no
+passenger356	female	22.0	yes
+passenger865	female	42.0	yes
+passenger239	male	33.0	no
+passenger469	female	0.75	yes
+passenger357	female	38.0	no
+passenger188	male	40.0	no
+passenger521	male	22.0	no
+passenger8	female	27.0	yes
+passenger737	male	35.0	yes
+passenger23	male	28.0	yes
+passenger291	female	19.0	yes
+passenger336	male	29.0	no
+passenger16	male	2.0	no
+passenger869	male	4.0	yes
+passenger170	male	61.0	no
+passenger120	male	21.0	no
+passenger679	male	36.0	yes
+passenger683	male	14.0	no
+passenger700	female	18.0	yes
+passenger297	female	2.0	no
+passenger209	male	40.0	yes
+passenger842	female	30.0	yes
+passenger652	male	21.0	no
+passenger854	female	44.0	no
+passenger38	female	18.0	no
+passenger115	male	21.0	no
+passenger33	male	66.0	no
+passenger581	female	39.0	yes
+passenger439	male	31.0	no
+passenger596	female		yes
+passenger391	male	21.0	yes
+passenger720	female	6.0	yes
+passenger480	male	9.0	no
+passenger134	male	25.0	no
+passenger278	male	7.0	no
+passenger202	male	34.0	no
+passenger770	male	24.0	no
+passenger514	male	24.0	no
+passenger168	male		no
+passenger735	male	28.5	no
+passenger594	male	37.0	no
+passenger533	female		yes
+passenger482	male	50.0	no
+passenger806	male	39.0	no
+passenger463	male	48.0	no
+passenger59	male	11.0	no
+passenger0	male	22.0	no
+passenger137	male	37.0	no
+passenger387	female	36.0	yes
+passenger849	female		yes
+passenger818	male	43.0	no
+passenger41	female	27.0	no
+passenger68	female	17.0	yes
+passenger207	male	26.0	yes
