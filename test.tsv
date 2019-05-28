@@ -1,0 +1,894 @@
+	passengerID	survived	pclass	fare	embarked	class	deck	embark_town	alone	sex	age	alive	adult	adult_male
+0	passenger0	0.0	3.0	7.25	S	Third		Southampton	False	male	22.0	no	1.0	1.0
+1	passenger1	1.0	1.0	71.2833	C	First	C	Cherbourg	False					
+2	passenger2	1.0	3.0	7.925	S	Third		Southampton	True	female	26.0	yes	1.0	0.0
+3	passenger3	1.0	1.0	53.1	S	First	C	Southampton	False	female	35.0	yes	1.0	0.0
+4	passenger4	0.0	3.0	8.05	S	Third		Southampton	True					
+5	passenger5	0.0	3.0	8.4583	Q	Third		Queenstown	True					
+6	passenger6	0.0	1.0	51.8625	S	First	E	Southampton	True	male	54.0	no	1.0	1.0
+7	passenger7	0.0	3.0	21.075	S	Third		Southampton	False	male	2.0	no	0.0	0.0
+8	passenger8	1.0	3.0	11.1333	S	Third		Southampton	False	female	27.0	yes	1.0	0.0
+9	passenger9	1.0	2.0	30.0708	C	Second		Cherbourg	False	female	14.0	yes	0.0	0.0
+10	passenger10	1.0	3.0	16.7	S	Third	G	Southampton	False	female	4.0	yes	0.0	0.0
+11	passenger11	1.0	1.0	26.55	S	First	C	Southampton	True	female	58.0	yes	1.0	0.0
+12	passenger12	0.0	3.0	8.05	S	Third		Southampton	True	male	20.0	no	1.0	1.0
+13	passenger13	0.0	3.0	31.275	S	Third		Southampton	False	male	39.0	no	1.0	1.0
+14	passenger14	0.0	3.0	7.8542	S	Third		Southampton	True	female	14.0	no	0.0	0.0
+15	passenger15	1.0	2.0	16.0	S	Second		Southampton	True	female	55.0	yes	1.0	0.0
+16	passenger16	0.0	3.0	29.125	Q	Third		Queenstown	False	male	2.0	no	0.0	0.0
+17	passenger17	1.0	2.0	13.0	S	Second		Southampton	True	male		yes		
+18	passenger18	0.0	3.0	18.0	S	Third		Southampton	False	female	31.0	no	1.0	0.0
+19	passenger19	1.0	3.0	7.225	C	Third		Cherbourg	True					
+20	passenger20	0.0	2.0	26.0	S	Second		Southampton	True	male	35.0	no	1.0	1.0
+21	passenger21	1.0	2.0	13.0	S	Second	D	Southampton	True	male	34.0	yes	1.0	1.0
+22	passenger22	1.0	3.0	8.0292	Q	Third		Queenstown	True	female	15.0	yes	0.0	0.0
+23	passenger23	1.0	1.0	35.5	S	First	A	Southampton	True	male	28.0	yes	1.0	1.0
+24	passenger24	0.0	3.0	21.075	S	Third		Southampton	False	female	8.0	no	0.0	0.0
+25	passenger25	1.0	3.0	31.3875	S	Third		Southampton	False	female	38.0	yes	1.0	0.0
+26	passenger26	0.0	3.0	7.225	C	Third		Cherbourg	True	male		no		
+27	passenger27	0.0	1.0	263.0	S	First	C	Southampton	False	male	19.0	no	1.0	1.0
+28	passenger28	1.0	3.0	7.8792	Q	Third		Queenstown	True	female		yes		
+29	passenger29	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+30	passenger30	0.0	1.0	27.7208	C	First		Cherbourg	True	male	40.0	no	1.0	1.0
+31	passenger31	1.0	1.0	146.5208	C	First	B	Cherbourg	False	female		yes		
+32	passenger32	1.0	3.0	7.75	Q	Third		Queenstown	True	female		yes		
+33	passenger33	0.0	2.0	10.5	S	Second		Southampton	True	male	66.0	no	1.0	1.0
+34	passenger34	0.0	1.0	82.1708	C	First		Cherbourg	False	male	28.0	no	1.0	1.0
+35	passenger35	0.0	1.0	52.0	S	First		Southampton	False	male	42.0	no	1.0	1.0
+36	passenger36	1.0	3.0	7.2292	C	Third		Cherbourg	True	male		yes		
+37	passenger37	0.0	3.0	8.05	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+38	passenger38	0.0	3.0	18.0	S	Third		Southampton	False	female	18.0	no	1.0	0.0
+39	passenger39	1.0	3.0	11.2417	C	Third		Cherbourg	False					
+40	passenger40	0.0	3.0	9.475	S	Third		Southampton	False	female	40.0	no	1.0	0.0
+41	passenger41	0.0	2.0	21.0	S	Second		Southampton	False	female	27.0	no	1.0	0.0
+42	passenger42	0.0	3.0	7.8958	C	Third		Cherbourg	True					
+43	passenger43	1.0	2.0	41.5792	C	Second		Cherbourg	False	female	3.0	yes	0.0	0.0
+44	passenger44	1.0	3.0	7.8792	Q	Third		Queenstown	True	female	19.0	yes	1.0	0.0
+45	passenger45	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+46	passenger46	0.0	3.0	15.5	Q	Third		Queenstown	False	male		no		
+47	passenger47	1.0	3.0	7.75	Q	Third		Queenstown	True					
+48	passenger48	0.0	3.0	21.6792	C	Third		Cherbourg	False	male		no		
+49	passenger49	0.0	3.0	17.8	S	Third		Southampton	False	female	18.0	no	1.0	0.0
+50	passenger50	0.0	3.0	39.6875	S	Third		Southampton	False	male	7.0	no	0.0	0.0
+51	passenger51	0.0	3.0	7.8	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+52	passenger52	1.0	1.0	76.7292	C	First	D	Cherbourg	False	female	49.0	yes	1.0	0.0
+53	passenger53	1.0	2.0	26.0	S	Second		Southampton	False					
+54	passenger54	0.0	1.0	61.9792	C	First	B	Cherbourg	False	male	65.0	no	1.0	1.0
+55	passenger55	1.0	1.0	35.5	S	First	C	Southampton	True	male		yes		
+56	passenger56	1.0	2.0	10.5	S	Second		Southampton	True	female	21.0	yes	1.0	0.0
+57	passenger57	0.0	3.0	7.2292	C	Third		Cherbourg	True	male	28.5	no	1.0	1.0
+58	passenger58	1.0	2.0	27.75	S	Second		Southampton	False	female	5.0	yes	0.0	0.0
+59	passenger59	0.0	3.0	46.9	S	Third		Southampton	False	male	11.0	no	0.0	0.0
+60	passenger60	0.0	3.0	7.2292	C	Third		Cherbourg	True	male	22.0	no	1.0	1.0
+61	passenger61	1.0	1.0	80.0		First	B		True	female	38.0	yes	1.0	0.0
+62	passenger62	0.0	1.0	83.475	S	First	C	Southampton	False	male	45.0	no	1.0	1.0
+63	passenger63	0.0	3.0	27.9	S	Third		Southampton	False	male	4.0	no	0.0	0.0
+64	passenger64	0.0	1.0	27.7208	C	First		Cherbourg	True					
+65	passenger65	1.0	3.0	15.2458	C	Third		Cherbourg	False	male		yes		
+66	passenger66	1.0	2.0	10.5	S	Second	F	Southampton	True	female	29.0	yes	1.0	0.0
+67	passenger67	0.0	3.0	8.1583	S	Third		Southampton	True	male	19.0	no	1.0	1.0
+68	passenger68	1.0	3.0	7.925	S	Third		Southampton	False	female	17.0	yes	0.0	0.0
+69	passenger69	0.0	3.0	8.6625	S	Third		Southampton	False	male	26.0	no	1.0	1.0
+70	passenger70	0.0	2.0	10.5	S	Second		Southampton	True	male	32.0	no	1.0	1.0
+71	passenger71	0.0	3.0	46.9	S	Third		Southampton	False	female	16.0	no	0.0	0.0
+72	passenger72	0.0	2.0	73.5	S	Second		Southampton	True	male	21.0	no	1.0	1.0
+73	passenger73	0.0	3.0	14.4542	C	Third		Cherbourg	False	male	26.0	no	1.0	1.0
+74	passenger74	1.0	3.0	56.4958	S	Third		Southampton	True	male	32.0	yes	1.0	1.0
+75	passenger75	0.0	3.0	7.65	S	Third	F	Southampton	True					
+76	passenger76	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+77	passenger77	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+78	passenger78	1.0	2.0	29.0	S	Second		Southampton	False	male	0.83	yes	0.0	0.0
+79	passenger79	1.0	3.0	12.475	S	Third		Southampton	True	female	30.0	yes	1.0	0.0
+80	passenger80	0.0	3.0	9.0	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+81	passenger81	1.0	3.0	9.5	S	Third		Southampton	True	male	29.0	yes	1.0	1.0
+82	passenger82	1.0	3.0	7.7875	Q	Third		Queenstown	True	female		yes		
+83	passenger83	0.0	1.0	47.1	S	First		Southampton	True	male	28.0	no	1.0	1.0
+84	passenger84	1.0	2.0	10.5	S	Second		Southampton	True	female	17.0	yes	0.0	0.0
+85	passenger85	1.0	3.0	15.85	S	Third		Southampton	False	female	33.0	yes	1.0	0.0
+86	passenger86	0.0	3.0	34.375	S	Third		Southampton	False	male	16.0	no	0.0	0.0
+87	passenger87	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+88	passenger88	1.0	1.0	263.0	S	First	C	Southampton	False	female	23.0	yes	1.0	0.0
+89	passenger89	0.0	3.0	8.05	S	Third		Southampton	True	male	24.0	no	1.0	1.0
+90	passenger90	0.0	3.0	8.05	S	Third		Southampton	True	male	29.0	no	1.0	1.0
+91	passenger91	0.0	3.0	7.8542	S	Third		Southampton	True	male	20.0	no	1.0	1.0
+92	passenger92	0.0	1.0	61.175	S	First	E	Southampton	False	male	46.0	no	1.0	1.0
+93	passenger93	0.0	3.0	20.575	S	Third		Southampton	False	male	26.0	no	1.0	1.0
+94	passenger94	0.0	3.0	7.25	S	Third		Southampton	True	male	59.0	no	1.0	1.0
+95	passenger95	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+96	passenger96	0.0	1.0	34.6542	C	First	A	Cherbourg	True	male	71.0	no	1.0	1.0
+97	passenger97	1.0	1.0	63.3583	C	First	D	Cherbourg	False	male	23.0	yes	1.0	1.0
+98	passenger98	1.0	2.0	23.0	S	Second		Southampton	False					
+99	passenger99	0.0	2.0	26.0	S	Second		Southampton	False					
+100	passenger100	0.0	3.0	7.8958	S	Third		Southampton	True	female	28.0	no	1.0	0.0
+101	passenger101	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+102	passenger102	0.0	1.0	77.2875	S	First	D	Southampton	False	male	21.0	no	1.0	1.0
+103	passenger103	0.0	3.0	8.6542	S	Third		Southampton	True	male	33.0	no	1.0	1.0
+104	passenger104	0.0	3.0	7.925	S	Third		Southampton	False	male	37.0	no	1.0	1.0
+105	passenger105	0.0	3.0	7.8958	S	Third		Southampton	True					
+106	passenger106	1.0	3.0	7.65	S	Third		Southampton	True	female	21.0	yes	1.0	0.0
+107	passenger107	1.0	3.0	7.775	S	Third		Southampton	True	male		yes		
+108	passenger108	0.0	3.0	7.8958	S	Third		Southampton	True	male	38.0	no	1.0	1.0
+109	passenger109	1.0	3.0	24.15	Q	Third		Queenstown	False	female		yes		
+110	passenger110	0.0	1.0	52.0	S	First	C	Southampton	True	male	47.0	no	1.0	1.0
+111	passenger111	0.0	3.0	14.4542	C	Third		Cherbourg	False	female	14.5	no	0.0	0.0
+112	passenger112	0.0	3.0	8.05	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+113	passenger113	0.0	3.0	9.825	S	Third		Southampton	False	female	20.0	no	1.0	0.0
+114	passenger114	0.0	3.0	14.4583	C	Third		Cherbourg	True	female	17.0	no	0.0	0.0
+115	passenger115	0.0	3.0	7.925	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+116	passenger116	0.0	3.0	7.75	Q	Third		Queenstown	True	male	70.5	no	1.0	1.0
+117	passenger117	0.0	2.0	21.0	S	Second		Southampton	False	male	29.0	no	1.0	1.0
+118	passenger118	0.0	1.0	247.5208	C	First	B	Cherbourg	False	male	24.0	no	1.0	1.0
+119	passenger119	0.0	3.0	31.275	S	Third		Southampton	False	female	2.0	no	0.0	0.0
+120	passenger120	0.0	2.0	73.5	S	Second		Southampton	False	male	21.0	no	1.0	1.0
+121	passenger121	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+122	passenger122	0.0	2.0	30.0708	C	Second		Cherbourg	False	male	32.5	no	1.0	1.0
+123	passenger123	1.0	2.0	13.0	S	Second	E	Southampton	True	female	32.5	yes	1.0	0.0
+124	passenger124	0.0	1.0	77.2875	S	First	D	Southampton	False	male	54.0	no	1.0	1.0
+125	passenger125	1.0	3.0	11.2417	C	Third		Cherbourg	False	male	12.0	yes	0.0	0.0
+126	passenger126	0.0	3.0	7.75	Q	Third		Queenstown	True	male		no		
+127	passenger127	1.0	3.0	7.1417	S	Third		Southampton	True					
+128	passenger128	1.0	3.0	22.3583	C	Third	F	Cherbourg	False	female		yes		
+129	passenger129	0.0	3.0	6.975	S	Third		Southampton	True	male	45.0	no	1.0	1.0
+130	passenger130	0.0	3.0	7.8958	C	Third		Cherbourg	True	male	33.0	no	1.0	1.0
+131	passenger131	0.0	3.0	7.05	S	Third		Southampton	True	male	20.0	no	1.0	1.0
+132	passenger132	0.0	3.0	14.5	S	Third		Southampton	False	female	47.0	no	1.0	0.0
+133	passenger133	1.0	2.0	26.0	S	Second		Southampton	False	female	29.0	yes	1.0	0.0
+134	passenger134	0.0	2.0	13.0	S	Second		Southampton	True	male	25.0	no	1.0	1.0
+135	passenger135	0.0	2.0	15.0458	C	Second		Cherbourg	True	male	23.0	no	1.0	1.0
+136	passenger136	1.0	1.0	26.2833	S	First	D	Southampton	False	female	19.0	yes	1.0	0.0
+137	passenger137	0.0	1.0	53.1	S	First	C	Southampton	False	male	37.0	no	1.0	1.0
+138	passenger138	0.0	3.0	9.2167	S	Third		Southampton	True	male	16.0	no	0.0	0.0
+139	passenger139	0.0	1.0	79.2	C	First	B	Cherbourg	True	male	24.0	no	1.0	1.0
+140	passenger140	0.0	3.0	15.2458	C	Third		Cherbourg	False	female		no		
+141	passenger141	1.0	3.0	7.75	S	Third		Southampton	True	female	22.0	yes	1.0	0.0
+142	passenger142	1.0	3.0	15.85	S	Third		Southampton	False	female	24.0	yes	1.0	0.0
+143	passenger143	0.0	3.0	6.75	Q	Third		Queenstown	True	male	19.0	no	1.0	1.0
+144	passenger144	0.0	2.0	11.5	S	Second		Southampton	True	male	18.0	no	1.0	1.0
+145	passenger145	0.0	2.0	36.75	S	Second		Southampton	False	male	19.0	no	1.0	1.0
+146	passenger146	1.0	3.0	7.7958	S	Third		Southampton	True	male	27.0	yes	1.0	1.0
+147	passenger147	0.0	3.0	34.375	S	Third		Southampton	False	female	9.0	no	0.0	0.0
+148	passenger148	0.0	2.0	26.0	S	Second	F	Southampton	False	male	36.5	no	1.0	1.0
+149	passenger149	0.0	2.0	13.0	S	Second		Southampton	True	male	42.0	no	1.0	1.0
+150	passenger150	0.0	2.0	12.525	S	Second		Southampton	True	male	51.0	no	1.0	1.0
+151	passenger151	1.0	1.0	66.6	S	First	C	Southampton	False	female	22.0	yes	1.0	0.0
+152	passenger152	0.0	3.0	8.05	S	Third		Southampton	True	male	55.5	no	1.0	1.0
+153	passenger153	0.0	3.0	14.5	S	Third		Southampton	False	male	40.5	no	1.0	1.0
+154	passenger154	0.0	3.0	7.3125	S	Third		Southampton	True	male		no		
+155	passenger155	0.0	1.0	61.3792	C	First		Cherbourg	False	male	51.0	no	1.0	1.0
+156	passenger156	1.0	3.0	7.7333	Q	Third		Queenstown	True	female	16.0	yes	0.0	0.0
+157	passenger157	0.0	3.0	8.05	S	Third		Southampton	True					
+158	passenger158	0.0	3.0	8.6625	S	Third		Southampton	True	male		no		
+159	passenger159	0.0	3.0	69.55	S	Third		Southampton	False					
+160	passenger160	0.0	3.0	16.1	S	Third		Southampton	False	male	44.0	no	1.0	1.0
+161	passenger161	1.0	2.0	15.75	S	Second		Southampton	True	female	40.0	yes	1.0	0.0
+162	passenger162	0.0	3.0	7.775	S	Third		Southampton	True	male	26.0	no	1.0	1.0
+163	passenger163	0.0	3.0	8.6625	S	Third		Southampton	True	male	17.0	no	0.0	0.0
+164	passenger164	0.0	3.0	39.6875	S	Third		Southampton	False	male	1.0	no	0.0	0.0
+165	passenger165	1.0	3.0	20.525	S	Third		Southampton	False	male	9.0	yes	0.0	0.0
+166	passenger166	1.0	1.0	55.0	S	First	E	Southampton	False	female		yes		
+167	passenger167	0.0	3.0	27.9	S	Third		Southampton	False	female	45.0	no	1.0	0.0
+168	passenger168	0.0	1.0	25.925	S	First		Southampton	True	male		no		
+169	passenger169	0.0	3.0	56.4958	S	Third		Southampton	True	male	28.0	no	1.0	1.0
+170	passenger170	0.0	1.0	33.5	S	First	B	Southampton	True	male	61.0	no	1.0	1.0
+171	passenger171	0.0	3.0	29.125	Q	Third		Queenstown	False	male	4.0	no	0.0	0.0
+172	passenger172	1.0	3.0	11.1333	S	Third		Southampton	False	female	1.0	yes	0.0	0.0
+173	passenger173	0.0	3.0	7.925	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+174	passenger174	0.0	1.0	30.6958	C	First	A	Cherbourg	True	male	56.0	no	1.0	1.0
+175	passenger175	0.0	3.0	7.8542	S	Third		Southampton	False	male	18.0	no	1.0	1.0
+176	passenger176	0.0	3.0	25.4667	S	Third		Southampton	False	male		no		
+177	passenger177	0.0	1.0	28.7125	C	First	C	Cherbourg	True					
+178	passenger178	0.0	2.0	13.0	S	Second		Southampton	True	male	30.0	no	1.0	1.0
+179	passenger179	0.0	3.0	0.0	S	Third		Southampton	True	male	36.0	no	1.0	1.0
+180	passenger180	0.0	3.0	69.55	S	Third		Southampton	False	female		no		
+181	passenger181	0.0	2.0	15.05	C	Second		Cherbourg	True	male		no		
+182	passenger182	0.0	3.0	31.3875	S	Third		Southampton	False	male	9.0	no	0.0	0.0
+183	passenger183	1.0	2.0	39.0	S	Second	F	Southampton	False	male	1.0	yes	0.0	0.0
+184	passenger184	1.0	3.0	22.025	S	Third		Southampton	False	female	4.0	yes	0.0	0.0
+185	passenger185	0.0	1.0	50.0	S	First	A	Southampton	True	male		no		
+186	passenger186	1.0	3.0	15.5	Q	Third		Queenstown	False					
+187	passenger187	1.0	1.0	26.55	S	First		Southampton	True	male	45.0	yes	1.0	1.0
+188	passenger188	0.0	3.0	15.5	Q	Third		Queenstown	False	male	40.0	no	1.0	1.0
+189	passenger189	0.0	3.0	7.8958	S	Third		Southampton	True	male	36.0	no	1.0	1.0
+190	passenger190	1.0	2.0	13.0	S	Second		Southampton	True					
+191	passenger191	0.0	2.0	13.0	S	Second		Southampton	True	male	19.0	no	1.0	1.0
+192	passenger192	1.0	3.0	7.8542	S	Third		Southampton	False					
+193	passenger193	1.0	2.0	26.0	S	Second	F	Southampton	False	male	3.0	yes	0.0	0.0
+194	passenger194	1.0	1.0	27.7208	C	First	B	Cherbourg	True	female	44.0	yes	1.0	0.0
+195	passenger195	1.0	1.0	146.5208	C	First	B	Cherbourg	True	female	58.0	yes	1.0	0.0
+196	passenger196	0.0	3.0	7.75	Q	Third		Queenstown	True	male		no		
+197	passenger197	0.0	3.0	8.4042	S	Third		Southampton	False	male	42.0	no	1.0	1.0
+198	passenger198	1.0	3.0	7.75	Q	Third		Queenstown	True	female		yes		
+199	passenger199	0.0	2.0	13.0	S	Second		Southampton	True	female	24.0	no	1.0	0.0
+200	passenger200	0.0	3.0	9.5	S	Third		Southampton	True	male	28.0	no	1.0	1.0
+201	passenger201	0.0	3.0	69.55	S	Third		Southampton	False					
+202	passenger202	0.0	3.0	6.4958	S	Third		Southampton	True	male	34.0	no	1.0	1.0
+203	passenger203	0.0	3.0	7.225	C	Third		Cherbourg	True					
+204	passenger204	1.0	3.0	8.05	S	Third		Southampton	True	male	18.0	yes	1.0	1.0
+205	passenger205	0.0	3.0	10.4625	S	Third	G	Southampton	False	female	2.0	no	0.0	0.0
+206	passenger206	0.0	3.0	15.85	S	Third		Southampton	False	male	32.0	no	1.0	1.0
+207	passenger207	1.0	3.0	18.7875	C	Third		Cherbourg	True	male	26.0	yes	1.0	1.0
+208	passenger208	1.0	3.0	7.75	Q	Third		Queenstown	True	female	16.0	yes	0.0	0.0
+209	passenger209	1.0	1.0	31.0	C	First	A	Cherbourg	True	male	40.0	yes	1.0	1.0
+210	passenger210	0.0	3.0	7.05	S	Third		Southampton	True	male	24.0	no	1.0	1.0
+211	passenger211	1.0	2.0	21.0	S	Second		Southampton	True					
+212	passenger212	0.0	3.0	7.25	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+213	passenger213	0.0	2.0	13.0	S	Second		Southampton	True	male	30.0	no	1.0	1.0
+214	passenger214	0.0	3.0	7.75	Q	Third		Queenstown	False	male		no		
+215	passenger215	1.0	1.0	113.275	C	First	D	Cherbourg	False	female	31.0	yes	1.0	0.0
+216	passenger216	1.0	3.0	7.925	S	Third		Southampton	True	female	27.0	yes	1.0	0.0
+217	passenger217	0.0	2.0	27.0	S	Second		Southampton	False	male	42.0	no	1.0	1.0
+218	passenger218	1.0	1.0	76.2917	C	First	D	Cherbourg	True	female	32.0	yes	1.0	0.0
+219	passenger219	0.0	2.0	10.5	S	Second		Southampton	True	male	30.0	no	1.0	1.0
+220	passenger220	1.0	3.0	8.05	S	Third		Southampton	True	male	16.0	yes	0.0	0.0
+221	passenger221	0.0	2.0	13.0	S	Second		Southampton	True	male	27.0	no	1.0	1.0
+222	passenger222	0.0	3.0	8.05	S	Third		Southampton	True	male	51.0	no	1.0	1.0
+223	passenger223	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+224	passenger224	1.0	1.0	90.0	S	First	C	Southampton	False	male	38.0	yes	1.0	1.0
+225	passenger225	0.0	3.0	9.35	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+226	passenger226	1.0	2.0	10.5	S	Second		Southampton	True	male	19.0	yes	1.0	1.0
+227	passenger227	0.0	3.0	7.25	S	Third		Southampton	True	male	20.5	no	1.0	1.0
+228	passenger228	0.0	2.0	13.0	S	Second		Southampton	True	male	18.0	no	1.0	1.0
+229	passenger229	0.0	3.0	25.4667	S	Third		Southampton	False	female		no		
+230	passenger230	1.0	1.0	83.475	S	First	C	Southampton	False	female	35.0	yes	1.0	0.0
+231	passenger231	0.0	3.0	7.775	S	Third		Southampton	True	male	29.0	no	1.0	1.0
+232	passenger232	0.0	2.0	13.5	S	Second		Southampton	True	male	59.0	no	1.0	1.0
+233	passenger233	1.0	3.0	31.3875	S	Third		Southampton	False	female	5.0	yes	0.0	0.0
+234	passenger234	0.0	2.0	10.5	S	Second		Southampton	True	male	24.0	no	1.0	1.0
+235	passenger235	0.0	3.0	7.55	S	Third		Southampton	True	female		no		
+236	passenger236	0.0	2.0	26.0	S	Second		Southampton	False	male	44.0	no	1.0	1.0
+237	passenger237	1.0	2.0	26.25	S	Second		Southampton	False	female	8.0	yes	0.0	0.0
+238	passenger238	0.0	2.0	10.5	S	Second		Southampton	True	male	19.0	no	1.0	1.0
+239	passenger239	0.0	2.0	12.275	S	Second		Southampton	True	male	33.0	no	1.0	1.0
+240	passenger240	0.0	3.0	14.4542	C	Third		Cherbourg	False	female		no		
+241	passenger241	1.0	3.0	15.5	Q	Third		Queenstown	False	female		yes		
+242	passenger242	0.0	2.0	10.5	S	Second		Southampton	True	male	29.0	no	1.0	1.0
+243	passenger243	0.0	3.0	7.125	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+244	passenger244	0.0	3.0	7.225	C	Third		Cherbourg	True					
+245	passenger245	0.0	1.0	90.0	Q	First	C	Queenstown	False	male	44.0	no	1.0	1.0
+246	passenger246	0.0	3.0	7.775	S	Third		Southampton	True	female	25.0	no	1.0	0.0
+247	passenger247	1.0	2.0	14.5	S	Second		Southampton	False	female	24.0	yes	1.0	0.0
+248	passenger248	1.0	1.0	52.5542	S	First	D	Southampton	False	male	37.0	yes	1.0	1.0
+249	passenger249	0.0	2.0	26.0	S	Second		Southampton	False	male	54.0	no	1.0	1.0
+250	passenger250	0.0	3.0	7.25	S	Third		Southampton	True					
+251	passenger251	0.0	3.0	10.4625	S	Third	G	Southampton	False	female	29.0	no	1.0	0.0
+252	passenger252	0.0	1.0	26.55	S	First	C	Southampton	True	male	62.0	no	1.0	1.0
+253	passenger253	0.0	3.0	16.1	S	Third		Southampton	False	male	30.0	no	1.0	1.0
+254	passenger254	0.0	3.0	20.2125	S	Third		Southampton	False	female	41.0	no	1.0	0.0
+255	passenger255	1.0	3.0	15.2458	C	Third		Cherbourg	False	female	29.0	yes	1.0	0.0
+256	passenger256	1.0	1.0	79.2	C	First		Cherbourg	True	female		yes		
+257	passenger257	1.0	1.0	86.5	S	First	B	Southampton	True	female	30.0	yes	1.0	0.0
+258	passenger258	1.0	1.0	512.3292	C	First		Cherbourg	True	female	35.0	yes	1.0	0.0
+259	passenger259	1.0	2.0	26.0	S	Second		Southampton	False	female	50.0	yes	1.0	0.0
+260	passenger260	0.0	3.0	7.75	Q	Third		Queenstown	True	male		no		
+261	passenger261	1.0	3.0	31.3875	S	Third		Southampton	False	male	3.0	yes	0.0	0.0
+262	passenger262	0.0	1.0	79.65	S	First	E	Southampton	False	male	52.0	no	1.0	1.0
+263	passenger263	0.0	1.0	0.0	S	First	B	Southampton	True	male	40.0	no	1.0	1.0
+264	passenger264	0.0	3.0	7.75	Q	Third		Queenstown	True					
+265	passenger265	0.0	2.0	10.5	S	Second		Southampton	True	male	36.0	no	1.0	1.0
+266	passenger266	0.0	3.0	39.6875	S	Third		Southampton	False	male	16.0	no	0.0	0.0
+267	passenger267	1.0	3.0	7.775	S	Third		Southampton	False	male	25.0	yes	1.0	1.0
+268	passenger268	1.0	1.0	153.4625	S	First	C	Southampton	False	female	58.0	yes	1.0	0.0
+269	passenger269	1.0	1.0	135.6333	S	First	C	Southampton	True	female	35.0	yes	1.0	0.0
+270	passenger270	0.0	1.0	31.0	S	First		Southampton	True					
+271	passenger271	1.0	3.0	0.0	S	Third		Southampton	True	male	25.0	yes	1.0	1.0
+272	passenger272	1.0	2.0	19.5	S	Second		Southampton	False	female	41.0	yes	1.0	0.0
+273	passenger273	0.0	1.0	29.7	C	First	C	Cherbourg	False	male	37.0	no	1.0	1.0
+274	passenger274	1.0	3.0	7.75	Q	Third		Queenstown	True	female		yes		
+275	passenger275	1.0	1.0	77.9583	S	First	D	Southampton	False	female	63.0	yes	1.0	0.0
+276	passenger276	0.0	3.0	7.75	S	Third		Southampton	True	female	45.0	no	1.0	0.0
+277	passenger277	0.0	2.0	0.0	S	Second		Southampton	True	male		no		
+278	passenger278	0.0	3.0	29.125	Q	Third		Queenstown	False	male	7.0	no	0.0	0.0
+279	passenger279	1.0	3.0	20.25	S	Third		Southampton	False	female	35.0	yes	1.0	0.0
+280	passenger280	0.0	3.0	7.75	Q	Third		Queenstown	True	male	65.0	no	1.0	1.0
+281	passenger281	0.0	3.0	7.8542	S	Third		Southampton	True	male	28.0	no	1.0	1.0
+282	passenger282	0.0	3.0	9.5	S	Third		Southampton	True	male	16.0	no	0.0	0.0
+283	passenger283	1.0	3.0	8.05	S	Third		Southampton	True	male	19.0	yes	1.0	1.0
+284	passenger284	0.0	1.0	26.0	S	First	A	Southampton	True	male		no		
+285	passenger285	0.0	3.0	8.6625	C	Third		Cherbourg	True	male	33.0	no	1.0	1.0
+286	passenger286	1.0	3.0	9.5	S	Third		Southampton	True					
+287	passenger287	0.0	3.0	7.8958	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+288	passenger288	1.0	2.0	13.0	S	Second		Southampton	True	male	42.0	yes	1.0	1.0
+289	passenger289	1.0	3.0	7.75	Q	Third		Queenstown	True	female	22.0	yes	1.0	0.0
+290	passenger290	1.0	1.0	78.85	S	First		Southampton	True	female	26.0	yes	1.0	0.0
+291	passenger291	1.0	1.0	91.0792	C	First	B	Cherbourg	False	female	19.0	yes	1.0	0.0
+292	passenger292	0.0	2.0	12.875	C	Second	D	Cherbourg	True	male	36.0	no	1.0	1.0
+293	passenger293	0.0	3.0	8.85	S	Third		Southampton	True	female	24.0	no	1.0	0.0
+294	passenger294	0.0	3.0	7.8958	S	Third		Southampton	True	male	24.0	no	1.0	1.0
+295	passenger295	0.0	1.0	27.7208	C	First		Cherbourg	True	male		no		
+296	passenger296	0.0	3.0	7.2292	C	Third		Cherbourg	True	male	23.5	no	1.0	1.0
+297	passenger297	0.0	1.0	151.55	S	First	C	Southampton	False	female	2.0	no	0.0	0.0
+298	passenger298	1.0	1.0	30.5	S	First	C	Southampton	True	male		yes		
+299	passenger299	1.0	1.0	247.5208	C	First	B	Cherbourg	False	female	50.0	yes	1.0	0.0
+300	passenger300	1.0	3.0	7.75	Q	Third		Queenstown	True	female		yes		
+301	passenger301	1.0	3.0	23.25	Q	Third		Queenstown	False	male		yes		
+302	passenger302	0.0	3.0	0.0	S	Third		Southampton	True	male	19.0	no	1.0	1.0
+303	passenger303	1.0	2.0	12.35	Q	Second	E	Queenstown	True	female		yes		
+304	passenger304	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+305	passenger305	1.0	1.0	151.55	S	First	C	Southampton	False					
+306	passenger306	1.0	1.0	110.8833	C	First		Cherbourg	True	female		yes		
+307	passenger307	1.0	1.0	108.9	C	First	C	Cherbourg	False	female	17.0	yes	0.0	0.0
+308	passenger308	0.0	2.0	24.0	C	Second		Cherbourg	False	male	30.0	no	1.0	1.0
+309	passenger309	1.0	1.0	56.9292	C	First	E	Cherbourg	True	female	30.0	yes	1.0	0.0
+310	passenger310	1.0	1.0	83.1583	C	First	C	Cherbourg	True	female	24.0	yes	1.0	0.0
+311	passenger311	1.0	1.0	262.375	C	First	B	Cherbourg	False	female	18.0	yes	1.0	0.0
+312	passenger312	0.0	2.0	26.0	S	Second		Southampton	False	female	26.0	no	1.0	0.0
+313	passenger313	0.0	3.0	7.8958	S	Third		Southampton	True	male	28.0	no	1.0	1.0
+314	passenger314	0.0	2.0	26.25	S	Second		Southampton	False	male	43.0	no	1.0	1.0
+315	passenger315	1.0	3.0	7.8542	S	Third		Southampton	True	female	26.0	yes	1.0	0.0
+316	passenger316	1.0	2.0	26.0	S	Second		Southampton	False	female	24.0	yes	1.0	0.0
+317	passenger317	0.0	2.0	14.0	S	Second		Southampton	True	male	54.0	no	1.0	1.0
+318	passenger318	1.0	1.0	164.8667	S	First	C	Southampton	False					
+319	passenger319	1.0	1.0	134.5	C	First	E	Cherbourg	False	female	40.0	yes	1.0	0.0
+320	passenger320	0.0	3.0	7.25	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+321	passenger321	0.0	3.0	7.8958	S	Third		Southampton	True	male	27.0	no	1.0	1.0
+322	passenger322	1.0	2.0	12.35	Q	Second		Queenstown	True	female	30.0	yes	1.0	0.0
+323	passenger323	1.0	2.0	29.0	S	Second		Southampton	False	female	22.0	yes	1.0	0.0
+324	passenger324	0.0	3.0	69.55	S	Third		Southampton	False	male		no		
+325	passenger325	1.0	1.0	135.6333	C	First	C	Cherbourg	True					
+326	passenger326	0.0	3.0	6.2375	S	Third		Southampton	True					
+327	passenger327	1.0	2.0	13.0	S	Second	D	Southampton	True	female	36.0	yes	1.0	0.0
+328	passenger328	1.0	3.0	20.525	S	Third		Southampton	False	female	31.0	yes	1.0	0.0
+329	passenger329	1.0	1.0	57.9792	C	First	B	Cherbourg	False	female	16.0	yes	0.0	0.0
+330	passenger330	1.0	3.0	23.25	Q	Third		Queenstown	False	female		yes		
+331	passenger331	0.0	1.0	28.5	S	First	C	Southampton	True	male	45.5	no	1.0	1.0
+332	passenger332	0.0	1.0	153.4625	S	First	C	Southampton	False	male	38.0	no	1.0	1.0
+333	passenger333	0.0	3.0	18.0	S	Third		Southampton	False	male	16.0	no	0.0	0.0
+334	passenger334	1.0	1.0	133.65	S	First		Southampton	False	female		yes		
+335	passenger335	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+336	passenger336	0.0	1.0	66.6	S	First	C	Southampton	False	male	29.0	no	1.0	1.0
+337	passenger337	1.0	1.0	134.5	C	First	E	Cherbourg	True					
+338	passenger338	1.0	3.0	8.05	S	Third		Southampton	True	male	45.0	yes	1.0	1.0
+339	passenger339	0.0	1.0	35.5	S	First		Southampton	True	male	45.0	no	1.0	1.0
+340	passenger340	1.0	2.0	26.0	S	Second	F	Southampton	False	male	2.0	yes	0.0	0.0
+341	passenger341	1.0	1.0	263.0	S	First	C	Southampton	False	female	24.0	yes	1.0	0.0
+342	passenger342	0.0	2.0	13.0	S	Second		Southampton	True	male	28.0	no	1.0	1.0
+343	passenger343	0.0	2.0	13.0	S	Second		Southampton	True	male	25.0	no	1.0	1.0
+344	passenger344	0.0	2.0	13.0	S	Second		Southampton	True	male	36.0	no	1.0	1.0
+345	passenger345	1.0	2.0	13.0	S	Second	F	Southampton	True	female	24.0	yes	1.0	0.0
+346	passenger346	1.0	2.0	13.0	S	Second		Southampton	True	female	40.0	yes	1.0	0.0
+347	passenger347	1.0	3.0	16.1	S	Third		Southampton	False	female		yes		
+348	passenger348	1.0	3.0	15.9	S	Third		Southampton	False	male	3.0	yes	0.0	0.0
+349	passenger349	0.0	3.0	8.6625	S	Third		Southampton	True	male	42.0	no	1.0	1.0
+350	passenger350	0.0	3.0	9.225	S	Third		Southampton	True					
+351	passenger351	0.0	1.0	35.0	S	First	C	Southampton	True	male		no		
+352	passenger352	0.0	3.0	7.2292	C	Third		Cherbourg	False	male	15.0	no	0.0	0.0
+353	passenger353	0.0	3.0	17.8	S	Third		Southampton	False	male	25.0	no	1.0	1.0
+354	passenger354	0.0	3.0	7.225	C	Third		Cherbourg	True	male		no		
+355	passenger355	0.0	3.0	9.5	S	Third		Southampton	True					
+356	passenger356	1.0	1.0	55.0	S	First	E	Southampton	False	female	22.0	yes	1.0	0.0
+357	passenger357	0.0	2.0	13.0	S	Second		Southampton	True	female	38.0	no	1.0	0.0
+358	passenger358	1.0	3.0	7.8792	Q	Third		Queenstown	True	female		yes		
+359	passenger359	1.0	3.0	7.8792	Q	Third		Queenstown	True	female		yes		
+360	passenger360	0.0	3.0	27.9	S	Third		Southampton	False	male	40.0	no	1.0	1.0
+361	passenger361	0.0	2.0	27.7208	C	Second		Cherbourg	False	male	29.0	no	1.0	1.0
+362	passenger362	0.0	3.0	14.4542	C	Third		Cherbourg	False	female	45.0	no	1.0	0.0
+363	passenger363	0.0	3.0	7.05	S	Third		Southampton	True					
+364	passenger364	0.0	3.0	15.5	Q	Third		Queenstown	False	male		no		
+365	passenger365	0.0	3.0	7.25	S	Third		Southampton	True	male	30.0	no	1.0	1.0
+366	passenger366	1.0	1.0	75.25	C	First	D	Cherbourg	False					
+367	passenger367	1.0	3.0	7.2292	C	Third		Cherbourg	True	female		yes		
+368	passenger368	1.0	3.0	7.75	Q	Third		Queenstown	True					
+369	passenger369	1.0	1.0	69.3	C	First	B	Cherbourg	True					
+370	passenger370	1.0	1.0	55.4417	C	First	E	Cherbourg	False	male	25.0	yes	1.0	1.0
+371	passenger371	0.0	3.0	6.4958	S	Third		Southampton	False	male	18.0	no	1.0	1.0
+372	passenger372	0.0	3.0	8.05	S	Third		Southampton	True	male	19.0	no	1.0	1.0
+373	passenger373	0.0	1.0	135.6333	C	First		Cherbourg	True	male	22.0	no	1.0	1.0
+374	passenger374	0.0	3.0	21.075	S	Third		Southampton	False	female	3.0	no	0.0	0.0
+375	passenger375	1.0	1.0	82.1708	C	First		Cherbourg	False	female		yes		
+376	passenger376	1.0	3.0	7.25	S	Third		Southampton	True	female	22.0	yes	1.0	0.0
+377	passenger377	0.0	1.0	211.5	C	First	C	Cherbourg	False	male	27.0	no	1.0	1.0
+378	passenger378	0.0	3.0	4.0125	C	Third		Cherbourg	True	male	20.0	no	1.0	1.0
+379	passenger379	0.0	3.0	7.775	S	Third		Southampton	True	male	19.0	no	1.0	1.0
+380	passenger380	1.0	1.0	227.525	C	First		Cherbourg	True	female	42.0	yes	1.0	0.0
+381	passenger381	1.0	3.0	15.7417	C	Third		Cherbourg	False	female	1.0	yes	0.0	0.0
+382	passenger382	0.0	3.0	7.925	S	Third		Southampton	True	male	32.0	no	1.0	1.0
+383	passenger383	1.0	1.0	52.0	S	First		Southampton	False					
+384	passenger384	0.0	3.0	7.8958	S	Third		Southampton	True					
+385	passenger385	0.0	2.0	73.5	S	Second		Southampton	True	male	18.0	no	1.0	1.0
+386	passenger386	0.0	3.0	46.9	S	Third		Southampton	False	male	1.0	no	0.0	0.0
+387	passenger387	1.0	2.0	13.0	S	Second		Southampton	True	female	36.0	yes	1.0	0.0
+388	passenger388	0.0	3.0	7.7292	Q	Third		Queenstown	True	male		no		
+389	passenger389	1.0	2.0	12.0	C	Second		Cherbourg	True	female	17.0	yes	0.0	0.0
+390	passenger390	1.0	1.0	120.0	S	First	B	Southampton	False	male	36.0	yes	1.0	1.0
+391	passenger391	1.0	3.0	7.7958	S	Third		Southampton	True	male	21.0	yes	1.0	1.0
+392	passenger392	0.0	3.0	7.925	S	Third		Southampton	False	male	28.0	no	1.0	1.0
+393	passenger393	1.0	1.0	113.275	C	First	D	Cherbourg	False	female	23.0	yes	1.0	0.0
+394	passenger394	1.0	3.0	16.7	S	Third	G	Southampton	False	female	24.0	yes	1.0	0.0
+395	passenger395	0.0	3.0	7.7958	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+396	passenger396	0.0	3.0	7.8542	S	Third		Southampton	True	female	31.0	no	1.0	0.0
+397	passenger397	0.0	2.0	26.0	S	Second		Southampton	True	male	46.0	no	1.0	1.0
+398	passenger398	0.0	2.0	10.5	S	Second		Southampton	True	male	23.0	no	1.0	1.0
+399	passenger399	1.0	2.0	12.65	S	Second		Southampton	True					
+400	passenger400	1.0	3.0	7.925	S	Third		Southampton	True	male	39.0	yes	1.0	1.0
+401	passenger401	0.0	3.0	8.05	S	Third		Southampton	True	male	26.0	no	1.0	1.0
+402	passenger402	0.0	3.0	9.825	S	Third		Southampton	False					
+403	passenger403	0.0	3.0	15.85	S	Third		Southampton	False	male	28.0	no	1.0	1.0
+404	passenger404	0.0	3.0	8.6625	S	Third		Southampton	True	female	20.0	no	1.0	0.0
+405	passenger405	0.0	2.0	21.0	S	Second		Southampton	False					
+406	passenger406	0.0	3.0	7.75	S	Third		Southampton	True	male	51.0	no	1.0	1.0
+407	passenger407	1.0	2.0	18.75	S	Second		Southampton	False	male	3.0	yes	0.0	0.0
+408	passenger408	0.0	3.0	7.775	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+409	passenger409	0.0	3.0	25.4667	S	Third		Southampton	False	female		no		
+410	passenger410	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+411	passenger411	0.0	3.0	6.8583	Q	Third		Queenstown	True	male		no		
+412	passenger412	1.0	1.0	90.0	Q	First	C	Queenstown	False	female	33.0	yes	1.0	0.0
+413	passenger413	0.0	2.0	0.0	S	Second		Southampton	True	male		no		
+414	passenger414	1.0	3.0	7.925	S	Third		Southampton	True	male	44.0	yes	1.0	1.0
+415	passenger415	0.0	3.0	8.05	S	Third		Southampton	True	female		no		
+416	passenger416	1.0	2.0	32.5	S	Second		Southampton	False	female	34.0	yes	1.0	0.0
+417	passenger417	1.0	2.0	13.0	S	Second		Southampton	False	female	18.0	yes	1.0	0.0
+418	passenger418	0.0	2.0	13.0	S	Second		Southampton	True					
+419	passenger419	0.0	3.0	24.15	S	Third		Southampton	False	female	10.0	no	0.0	0.0
+420	passenger420	0.0	3.0	7.8958	C	Third		Cherbourg	True	male		no		
+421	passenger421	0.0	3.0	7.7333	Q	Third		Queenstown	True	male	21.0	no	1.0	1.0
+422	passenger422	0.0	3.0	7.875	S	Third		Southampton	True	male	29.0	no	1.0	1.0
+423	passenger423	0.0	3.0	14.4	S	Third		Southampton	False	female	28.0	no	1.0	0.0
+424	passenger424	0.0	3.0	20.2125	S	Third		Southampton	False	male	18.0	no	1.0	1.0
+425	passenger425	0.0	3.0	7.25	S	Third		Southampton	True	male		no		
+426	passenger426	1.0	2.0	26.0	S	Second		Southampton	False	female	28.0	yes	1.0	0.0
+427	passenger427	1.0	2.0	26.0	S	Second		Southampton	True	female	19.0	yes	1.0	0.0
+428	passenger428	0.0	3.0	7.75	Q	Third		Queenstown	True	male		no		
+429	passenger429	1.0	3.0	8.05	S	Third	E	Southampton	True	male	32.0	yes	1.0	1.0
+430	passenger430	1.0	1.0	26.55	S	First	C	Southampton	True	male	28.0	yes	1.0	1.0
+431	passenger431	1.0	3.0	16.1	S	Third		Southampton	False	female		yes		
+432	passenger432	1.0	2.0	26.0	S	Second		Southampton	False	female	42.0	yes	1.0	0.0
+433	passenger433	0.0	3.0	7.125	S	Third		Southampton	True	male	17.0	no	0.0	0.0
+434	passenger434	0.0	1.0	55.9	S	First	E	Southampton	False	male	50.0	no	1.0	1.0
+435	passenger435	1.0	1.0	120.0	S	First	B	Southampton	False	female	14.0	yes	0.0	0.0
+436	passenger436	0.0	3.0	34.375	S	Third		Southampton	False					
+437	passenger437	1.0	2.0	18.75	S	Second		Southampton	False	female	24.0	yes	1.0	0.0
+438	passenger438	0.0	1.0	263.0	S	First	C	Southampton	False	male	64.0	no	1.0	1.0
+439	passenger439	0.0	2.0	10.5	S	Second		Southampton	True	male	31.0	no	1.0	1.0
+440	passenger440	1.0	2.0	26.25	S	Second		Southampton	False	female	45.0	yes	1.0	0.0
+441	passenger441	0.0	3.0	9.5	S	Third		Southampton	True	male	20.0	no	1.0	1.0
+442	passenger442	0.0	3.0	7.775	S	Third		Southampton	False	male	25.0	no	1.0	1.0
+443	passenger443	1.0	2.0	13.0	S	Second		Southampton	True	female	28.0	yes	1.0	0.0
+444	passenger444	1.0	3.0	8.1125	S	Third		Southampton	True	male		yes		
+445	passenger445	1.0	1.0	81.8583	S	First	A	Southampton	False	male	4.0	yes	0.0	0.0
+446	passenger446	1.0	2.0	19.5	S	Second		Southampton	False	female	13.0	yes	0.0	0.0
+447	passenger447	1.0	1.0	26.55	S	First		Southampton	True	male	34.0	yes	1.0	1.0
+448	passenger448	1.0	3.0	19.2583	C	Third		Cherbourg	False	female	5.0	yes	0.0	0.0
+449	passenger449	1.0	1.0	30.5	S	First	C	Southampton	True	male	52.0	yes	1.0	1.0
+450	passenger450	0.0	2.0	27.75	S	Second		Southampton	False	male	36.0	no	1.0	1.0
+451	passenger451	0.0	3.0	19.9667	S	Third		Southampton	False	male		no		
+452	passenger452	0.0	1.0	27.75	C	First	C	Cherbourg	True	male	30.0	no	1.0	1.0
+453	passenger453	1.0	1.0	89.1042	C	First	C	Cherbourg	False	male	49.0	yes	1.0	1.0
+454	passenger454	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+455	passenger455	1.0	3.0	7.8958	C	Third		Cherbourg	True					
+456	passenger456	0.0	1.0	26.55	S	First	E	Southampton	True					
+457	passenger457	1.0	1.0	51.8625	S	First	D	Southampton	False	female		yes		
+458	passenger458	1.0	2.0	10.5	S	Second		Southampton	True	female	50.0	yes	1.0	0.0
+459	passenger459	0.0	3.0	7.75	Q	Third		Queenstown	True					
+460	passenger460	1.0	1.0	26.55	S	First	E	Southampton	True	male	48.0	yes	1.0	1.0
+461	passenger461	0.0	3.0	8.05	S	Third		Southampton	True	male	34.0	no	1.0	1.0
+462	passenger462	0.0	1.0	38.5	S	First	E	Southampton	True	male	47.0	no	1.0	1.0
+463	passenger463	0.0	2.0	13.0	S	Second		Southampton	True	male	48.0	no	1.0	1.0
+464	passenger464	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+465	passenger465	0.0	3.0	7.05	S	Third		Southampton	True	male	38.0	no	1.0	1.0
+466	passenger466	0.0	2.0	0.0	S	Second		Southampton	True	male		no		
+467	passenger467	0.0	1.0	26.55	S	First		Southampton	True	male	56.0	no	1.0	1.0
+468	passenger468	0.0	3.0	7.725	Q	Third		Queenstown	True	male		no		
+469	passenger469	1.0	3.0	19.2583	C	Third		Cherbourg	False	female	0.75	yes	0.0	0.0
+470	passenger470	0.0	3.0	7.25	S	Third		Southampton	True	male		no		
+471	passenger471	0.0	3.0	8.6625	S	Third		Southampton	True	male	38.0	no	1.0	1.0
+472	passenger472	1.0	2.0	27.75	S	Second		Southampton	False	female	33.0	yes	1.0	0.0
+473	passenger473	1.0	2.0	13.7917	C	Second	D	Cherbourg	True	female	23.0	yes	1.0	0.0
+474	passenger474	0.0	3.0	9.8375	S	Third		Southampton	True	female	22.0	no	1.0	0.0
+475	passenger475	0.0	1.0	52.0	S	First	A	Southampton	True	male		no		
+476	passenger476	0.0	2.0	21.0	S	Second		Southampton	False	male	34.0	no	1.0	1.0
+477	passenger477	0.0	3.0	7.0458	S	Third		Southampton	False	male	29.0	no	1.0	1.0
+478	passenger478	0.0	3.0	7.5208	S	Third		Southampton	True					
+479	passenger479	1.0	3.0	12.2875	S	Third		Southampton	False	female	2.0	yes	0.0	0.0
+480	passenger480	0.0	3.0	46.9	S	Third		Southampton	False	male	9.0	no	0.0	0.0
+481	passenger481	0.0	2.0	0.0	S	Second		Southampton	True					
+482	passenger482	0.0	3.0	8.05	S	Third		Southampton	True	male	50.0	no	1.0	1.0
+483	passenger483	1.0	3.0	9.5875	S	Third		Southampton	True	female	63.0	yes	1.0	0.0
+484	passenger484	1.0	1.0	91.0792	C	First	B	Cherbourg	False					
+485	passenger485	0.0	3.0	25.4667	S	Third		Southampton	False	female		no		
+486	passenger486	1.0	1.0	90.0	S	First	C	Southampton	False	female	35.0	yes	1.0	0.0
+487	passenger487	0.0	1.0	29.7	C	First	B	Cherbourg	True					
+488	passenger488	0.0	3.0	8.05	S	Third		Southampton	True	male	30.0	no	1.0	1.0
+489	passenger489	1.0	3.0	15.9	S	Third		Southampton	False	male	9.0	yes	0.0	0.0
+490	passenger490	0.0	3.0	19.9667	S	Third		Southampton	False					
+491	passenger491	0.0	3.0	7.25	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+492	passenger492	0.0	1.0	30.5	S	First	C	Southampton	True	male	55.0	no	1.0	1.0
+493	passenger493	0.0	1.0	49.5042	C	First		Cherbourg	True	male	71.0	no	1.0	1.0
+494	passenger494	0.0	3.0	8.05	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+495	passenger495	0.0	3.0	14.4583	C	Third		Cherbourg	True	male		no		
+496	passenger496	1.0	1.0	78.2667	C	First	D	Cherbourg	False	female	54.0	yes	1.0	0.0
+497	passenger497	0.0	3.0	15.1	S	Third		Southampton	True	male		no		
+498	passenger498	0.0	1.0	151.55	S	First	C	Southampton	False	female	25.0	no	1.0	0.0
+499	passenger499	0.0	3.0	7.7958	S	Third		Southampton	True					
+500	passenger500	0.0	3.0	8.6625	S	Third		Southampton	True					
+501	passenger501	0.0	3.0	7.75	Q	Third		Queenstown	True	female	21.0	no	1.0	0.0
+502	passenger502	0.0	3.0	7.6292	Q	Third		Queenstown	True	female		no		
+503	passenger503	0.0	3.0	9.5875	S	Third		Southampton	True	female	37.0	no	1.0	0.0
+504	passenger504	1.0	1.0	86.5	S	First	B	Southampton	True	female	16.0	yes	0.0	0.0
+505	passenger505	0.0	1.0	108.9	C	First	C	Cherbourg	False	male	18.0	no	1.0	1.0
+506	passenger506	1.0	2.0	26.0	S	Second		Southampton	False	female	33.0	yes	1.0	0.0
+507	passenger507	1.0	1.0	26.55	S	First		Southampton	True	male		yes		
+508	passenger508	0.0	3.0	22.525	S	Third		Southampton	True	male	28.0	no	1.0	1.0
+509	passenger509	1.0	3.0	56.4958	S	Third		Southampton	True	male	26.0	yes	1.0	1.0
+510	passenger510	1.0	3.0	7.75	Q	Third		Queenstown	True	male	29.0	yes	1.0	1.0
+511	passenger511	0.0	3.0	8.05	S	Third		Southampton	True					
+512	passenger512	1.0	1.0	26.2875	S	First	E	Southampton	True	male	36.0	yes	1.0	1.0
+513	passenger513	1.0	1.0	59.4	C	First		Cherbourg	False	female	54.0	yes	1.0	0.0
+514	passenger514	0.0	3.0	7.4958	S	Third		Southampton	True	male	24.0	no	1.0	1.0
+515	passenger515	0.0	1.0	34.0208	S	First	D	Southampton	True	male	47.0	no	1.0	1.0
+516	passenger516	1.0	2.0	10.5	S	Second	F	Southampton	True	female	34.0	yes	1.0	0.0
+517	passenger517	0.0	3.0	24.15	Q	Third		Queenstown	True	male		no		
+518	passenger518	1.0	2.0	26.0	S	Second		Southampton	False	female	36.0	yes	1.0	0.0
+519	passenger519	0.0	3.0	7.8958	S	Third		Southampton	True	male	32.0	no	1.0	1.0
+520	passenger520	1.0	1.0	93.5	S	First	B	Southampton	True	female	30.0	yes	1.0	0.0
+521	passenger521	0.0	3.0	7.8958	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+522	passenger522	0.0	3.0	7.225	C	Third		Cherbourg	True	male		no		
+523	passenger523	1.0	1.0	57.9792	C	First	B	Cherbourg	False	female	44.0	yes	1.0	0.0
+524	passenger524	0.0	3.0	7.2292	C	Third		Cherbourg	True					
+525	passenger525	0.0	3.0	7.75	Q	Third		Queenstown	True	male	40.5	no	1.0	1.0
+526	passenger526	1.0	2.0	10.5	S	Second		Southampton	True	female	50.0	yes	1.0	0.0
+527	passenger527	0.0	1.0	221.7792	S	First	C	Southampton	True	male		no		
+528	passenger528	0.0	3.0	7.925	S	Third		Southampton	True	male	39.0	no	1.0	1.0
+529	passenger529	0.0	2.0	11.5	S	Second		Southampton	False	male	23.0	no	1.0	1.0
+530	passenger530	1.0	2.0	26.0	S	Second		Southampton	False	female	2.0	yes	0.0	0.0
+531	passenger531	0.0	3.0	7.2292	C	Third		Cherbourg	True					
+532	passenger532	0.0	3.0	7.2292	C	Third		Cherbourg	False	male	17.0	no	0.0	0.0
+533	passenger533	1.0	3.0	22.3583	C	Third		Cherbourg	False	female		yes		
+534	passenger534	0.0	3.0	8.6625	S	Third		Southampton	True	female	30.0	no	1.0	0.0
+535	passenger535	1.0	2.0	26.25	S	Second		Southampton	False	female	7.0	yes	0.0	0.0
+536	passenger536	0.0	1.0	26.55	S	First	B	Southampton	True	male	45.0	no	1.0	1.0
+537	passenger537	1.0	1.0	106.425	C	First		Cherbourg	True	female	30.0	yes	1.0	0.0
+538	passenger538	0.0	3.0	14.5	S	Third		Southampton	True	male		no		
+539	passenger539	1.0	1.0	49.5	C	First	B	Cherbourg	False	female	22.0	yes	1.0	0.0
+540	passenger540	1.0	1.0	71.0	S	First	B	Southampton	False	female	36.0	yes	1.0	0.0
+541	passenger541	0.0	3.0	31.275	S	Third		Southampton	False	female	9.0	no	0.0	0.0
+542	passenger542	0.0	3.0	31.275	S	Third		Southampton	False	female	11.0	no	0.0	0.0
+543	passenger543	1.0	2.0	26.0	S	Second		Southampton	False	male	32.0	yes	1.0	1.0
+544	passenger544	0.0	1.0	106.425	C	First	C	Cherbourg	False	male	50.0	no	1.0	1.0
+545	passenger545	0.0	1.0	26.0	S	First		Southampton	True	male	64.0	no	1.0	1.0
+546	passenger546	1.0	2.0	26.0	S	Second		Southampton	False					
+547	passenger547	1.0	2.0	13.8625	C	Second		Cherbourg	True	male		yes		
+548	passenger548	0.0	3.0	20.525	S	Third		Southampton	False	male	33.0	no	1.0	1.0
+549	passenger549	1.0	2.0	36.75	S	Second		Southampton	False					
+550	passenger550	1.0	1.0	110.8833	C	First	C	Cherbourg	False	male	17.0	yes	0.0	0.0
+551	passenger551	0.0	2.0	26.0	S	Second		Southampton	True	male	27.0	no	1.0	1.0
+552	passenger552	0.0	3.0	7.8292	Q	Third		Queenstown	True					
+553	passenger553	1.0	3.0	7.225	C	Third		Cherbourg	True	male	22.0	yes	1.0	1.0
+554	passenger554	1.0	3.0	7.775	S	Third		Southampton	True	female	22.0	yes	1.0	0.0
+555	passenger555	0.0	1.0	26.55	S	First		Southampton	True	male	62.0	no	1.0	1.0
+556	passenger556	1.0	1.0	39.6	C	First	A	Cherbourg	False	female	48.0	yes	1.0	0.0
+557	passenger557	0.0	1.0	227.525	C	First		Cherbourg	True	male		no		
+558	passenger558	1.0	1.0	79.65	S	First	E	Southampton	False	female	39.0	yes	1.0	0.0
+559	passenger559	1.0	3.0	17.4	S	Third		Southampton	False					
+560	passenger560	0.0	3.0	7.75	Q	Third		Queenstown	True	male		no		
+561	passenger561	0.0	3.0	7.8958	S	Third		Southampton	True	male	40.0	no	1.0	1.0
+562	passenger562	0.0	2.0	13.5	S	Second		Southampton	True					
+563	passenger563	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+564	passenger564	0.0	3.0	8.05	S	Third		Southampton	True	female		no		
+565	passenger565	0.0	3.0	24.15	S	Third		Southampton	False	male	24.0	no	1.0	1.0
+566	passenger566	0.0	3.0	7.8958	S	Third		Southampton	True	male	19.0	no	1.0	1.0
+567	passenger567	0.0	3.0	21.075	S	Third		Southampton	False					
+568	passenger568	0.0	3.0	7.2292	C	Third		Cherbourg	True	male		no		
+569	passenger569	1.0	3.0	7.8542	S	Third		Southampton	True	male	32.0	yes	1.0	1.0
+570	passenger570	1.0	2.0	10.5	S	Second		Southampton	True	male	62.0	yes	1.0	1.0
+571	passenger571	1.0	1.0	51.4792	S	First	C	Southampton	False					
+572	passenger572	1.0	1.0	26.3875	S	First	E	Southampton	True	male	36.0	yes	1.0	1.0
+573	passenger573	1.0	3.0	7.75	Q	Third		Queenstown	True	female		yes		
+574	passenger574	0.0	3.0	8.05	S	Third		Southampton	True	male	16.0	no	0.0	0.0
+575	passenger575	0.0	3.0	14.5	S	Third		Southampton	True	male	19.0	no	1.0	1.0
+576	passenger576	1.0	2.0	13.0	S	Second		Southampton	True	female	34.0	yes	1.0	0.0
+577	passenger577	1.0	1.0	55.9	S	First	E	Southampton	False					
+578	passenger578	0.0	3.0	14.4583	C	Third		Cherbourg	False					
+579	passenger579	1.0	3.0	7.925	S	Third		Southampton	True	male	32.0	yes	1.0	1.0
+580	passenger580	1.0	2.0	30.0	S	Second		Southampton	False	female	25.0	yes	1.0	0.0
+581	passenger581	1.0	1.0	110.8833	C	First	C	Cherbourg	False	female	39.0	yes	1.0	0.0
+582	passenger582	0.0	2.0	26.0	S	Second		Southampton	True					
+583	passenger583	0.0	1.0	40.125	C	First	A	Cherbourg	True	male	36.0	no	1.0	1.0
+584	passenger584	0.0	3.0	8.7125	C	Third		Cherbourg	True	male		no		
+585	passenger585	1.0	1.0	79.65	S	First	E	Southampton	False	female	18.0	yes	1.0	0.0
+586	passenger586	0.0	2.0	15.0	S	Second		Southampton	True					
+587	passenger587	1.0	1.0	79.2	C	First	B	Cherbourg	False	male	60.0	yes	1.0	1.0
+588	passenger588	0.0	3.0	8.05	S	Third		Southampton	True	male	22.0	no	1.0	1.0
+589	passenger589	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+590	passenger590	0.0	3.0	7.125	S	Third		Southampton	True	male	35.0	no	1.0	1.0
+591	passenger591	1.0	1.0	78.2667	C	First	D	Cherbourg	False					
+592	passenger592	0.0	3.0	7.25	S	Third		Southampton	True	male	47.0	no	1.0	1.0
+593	passenger593	0.0	3.0	7.75	Q	Third		Queenstown	False	female		no		
+594	passenger594	0.0	2.0	26.0	S	Second		Southampton	False	male	37.0	no	1.0	1.0
+595	passenger595	0.0	3.0	24.15	S	Third		Southampton	False	male	36.0	no	1.0	1.0
+596	passenger596	1.0	2.0	33.0	S	Second		Southampton	True	female		yes		
+597	passenger597	0.0	3.0	0.0	S	Third		Southampton	True	male	49.0	no	1.0	1.0
+598	passenger598	0.0	3.0	7.225	C	Third		Cherbourg	True	male		no		
+599	passenger599	1.0	1.0	56.9292	C	First	A	Cherbourg	False	male	49.0	yes	1.0	1.0
+600	passenger600	1.0	2.0	27.0	S	Second		Southampton	False	female	24.0	yes	1.0	0.0
+601	passenger601	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+602	passenger602	0.0	1.0	42.4	S	First		Southampton	True	male		no		
+603	passenger603	0.0	3.0	8.05	S	Third		Southampton	True	male	44.0	no	1.0	1.0
+604	passenger604	1.0	1.0	26.55	C	First		Cherbourg	True	male	35.0	yes	1.0	1.0
+605	passenger605	0.0	3.0	15.55	S	Third		Southampton	False	male	36.0	no	1.0	1.0
+606	passenger606	0.0	3.0	7.8958	S	Third		Southampton	True	male	30.0	no	1.0	1.0
+607	passenger607	1.0	1.0	30.5	S	First		Southampton	True	male	27.0	yes	1.0	1.0
+608	passenger608	1.0	2.0	41.5792	C	Second		Cherbourg	False	female	22.0	yes	1.0	0.0
+609	passenger609	1.0	1.0	153.4625	S	First	C	Southampton	True	female	40.0	yes	1.0	0.0
+610	passenger610	0.0	3.0	31.275	S	Third		Southampton	False	female	39.0	no	1.0	0.0
+611	passenger611	0.0	3.0	7.05	S	Third		Southampton	True	male		no		
+612	passenger612	1.0	3.0	15.5	Q	Third		Queenstown	False	female		yes		
+613	passenger613	0.0	3.0	7.75	Q	Third		Queenstown	True					
+614	passenger614	0.0	3.0	8.05	S	Third		Southampton	True	male	35.0	no	1.0	1.0
+615	passenger615	1.0	2.0	65.0	S	Second		Southampton	False	female	24.0	yes	1.0	0.0
+616	passenger616	0.0	3.0	14.4	S	Third		Southampton	False	male	34.0	no	1.0	1.0
+617	passenger617	0.0	3.0	16.1	S	Third		Southampton	False	female	26.0	no	1.0	0.0
+618	passenger618	1.0	2.0	39.0	S	Second	F	Southampton	False	female	4.0	yes	0.0	0.0
+619	passenger619	0.0	2.0	10.5	S	Second		Southampton	True	male	26.0	no	1.0	1.0
+620	passenger620	0.0	3.0	14.4542	C	Third		Cherbourg	False	male	27.0	no	1.0	1.0
+621	passenger621	1.0	1.0	52.5542	S	First	D	Southampton	False	male	42.0	yes	1.0	1.0
+622	passenger622	1.0	3.0	15.7417	C	Third		Cherbourg	False	male	20.0	yes	1.0	1.0
+623	passenger623	0.0	3.0	7.8542	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+624	passenger624	0.0	3.0	16.1	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+625	passenger625	0.0	1.0	32.3208	S	First	D	Southampton	True	male	61.0	no	1.0	1.0
+626	passenger626	0.0	2.0	12.35	Q	Second		Queenstown	True	male	57.0	no	1.0	1.0
+627	passenger627	1.0	1.0	77.9583	S	First	D	Southampton	True	female	21.0	yes	1.0	0.0
+628	passenger628	0.0	3.0	7.8958	S	Third		Southampton	True	male	26.0	no	1.0	1.0
+629	passenger629	0.0	3.0	7.7333	Q	Third		Queenstown	True					
+630	passenger630	1.0	1.0	30.0	S	First	A	Southampton	True	male	80.0	yes	1.0	1.0
+631	passenger631	0.0	3.0	7.0542	S	Third		Southampton	True	male	51.0	no	1.0	1.0
+632	passenger632	1.0	1.0	30.5	C	First	B	Cherbourg	True	male	32.0	yes	1.0	1.0
+633	passenger633	0.0	1.0	0.0	S	First		Southampton	True	male		no		
+634	passenger634	0.0	3.0	27.9	S	Third		Southampton	False	female	9.0	no	0.0	0.0
+635	passenger635	1.0	2.0	13.0	S	Second		Southampton	True	female	28.0	yes	1.0	0.0
+636	passenger636	0.0	3.0	7.925	S	Third		Southampton	True	male	32.0	no	1.0	1.0
+637	passenger637	0.0	2.0	26.25	S	Second		Southampton	False	male	31.0	no	1.0	1.0
+638	passenger638	0.0	3.0	39.6875	S	Third		Southampton	False	female	41.0	no	1.0	0.0
+639	passenger639	0.0	3.0	16.1	S	Third		Southampton	False	male		no		
+640	passenger640	0.0	3.0	7.8542	S	Third		Southampton	True	male	20.0	no	1.0	1.0
+641	passenger641	1.0	1.0	69.3	C	First	B	Cherbourg	True					
+642	passenger642	0.0	3.0	27.9	S	Third		Southampton	False	female	2.0	no	0.0	0.0
+643	passenger643	1.0	3.0	56.4958	S	Third		Southampton	True	male		yes		
+644	passenger644	1.0	3.0	19.2583	C	Third		Cherbourg	False	female	0.75	yes	0.0	0.0
+645	passenger645	1.0	1.0	76.7292	C	First	D	Cherbourg	False	male	48.0	yes	1.0	1.0
+646	passenger646	0.0	3.0	7.8958	S	Third		Southampton	True	male	19.0	no	1.0	1.0
+647	passenger647	1.0	1.0	35.5	C	First	A	Cherbourg	True	male	56.0	yes	1.0	1.0
+648	passenger648	0.0	3.0	7.55	S	Third		Southampton	True					
+649	passenger649	1.0	3.0	7.55	S	Third		Southampton	True	female	23.0	yes	1.0	0.0
+650	passenger650	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+651	passenger651	1.0	2.0	23.0	S	Second		Southampton	False	female	18.0	yes	1.0	0.0
+652	passenger652	0.0	3.0	8.4333	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+653	passenger653	1.0	3.0	7.8292	Q	Third		Queenstown	True	female		yes		
+654	passenger654	0.0	3.0	6.75	Q	Third		Queenstown	True	female	18.0	no	1.0	0.0
+655	passenger655	0.0	2.0	73.5	S	Second		Southampton	False					
+656	passenger656	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+657	passenger657	0.0	3.0	15.5	Q	Third		Queenstown	False	female	32.0	no	1.0	0.0
+658	passenger658	0.0	2.0	13.0	S	Second		Southampton	True	male	23.0	no	1.0	1.0
+659	passenger659	0.0	1.0	113.275	C	First	D	Cherbourg	False	male	58.0	no	1.0	1.0
+660	passenger660	1.0	1.0	133.65	S	First		Southampton	False	male	50.0	yes	1.0	1.0
+661	passenger661	0.0	3.0	7.225	C	Third		Cherbourg	True	male	40.0	no	1.0	1.0
+662	passenger662	0.0	1.0	25.5875	S	First	E	Southampton	True	male	47.0	no	1.0	1.0
+663	passenger663	0.0	3.0	7.4958	S	Third		Southampton	True	male	36.0	no	1.0	1.0
+664	passenger664	1.0	3.0	7.925	S	Third		Southampton	False	male	20.0	yes	1.0	1.0
+665	passenger665	0.0	2.0	73.5	S	Second		Southampton	False	male	32.0	no	1.0	1.0
+666	passenger666	0.0	2.0	13.0	S	Second		Southampton	True	male	25.0	no	1.0	1.0
+667	passenger667	0.0	3.0	7.775	S	Third		Southampton	True	male		no		
+668	passenger668	0.0	3.0	8.05	S	Third		Southampton	True	male	43.0	no	1.0	1.0
+669	passenger669	1.0	1.0	52.0	S	First	C	Southampton	False	female		yes		
+670	passenger670	1.0	2.0	39.0	S	Second		Southampton	False	female	40.0	yes	1.0	0.0
+671	passenger671	0.0	1.0	52.0	S	First	B	Southampton	False	male	31.0	no	1.0	1.0
+672	passenger672	0.0	2.0	10.5	S	Second		Southampton	True					
+673	passenger673	1.0	2.0	13.0	S	Second		Southampton	True	male	31.0	yes	1.0	1.0
+674	passenger674	0.0	2.0	0.0	S	Second		Southampton	True	male		no		
+675	passenger675	0.0	3.0	7.775	S	Third		Southampton	True	male	18.0	no	1.0	1.0
+676	passenger676	0.0	3.0	8.05	S	Third		Southampton	True	male	24.5	no	1.0	1.0
+677	passenger677	1.0	3.0	9.8417	S	Third		Southampton	True	female	18.0	yes	1.0	0.0
+678	passenger678	0.0	3.0	46.9	S	Third		Southampton	False	female	43.0	no	1.0	0.0
+679	passenger679	1.0	1.0	512.3292	C	First	B	Cherbourg	False	male	36.0	yes	1.0	1.0
+680	passenger680	0.0	3.0	8.1375	Q	Third		Queenstown	True	female		no		
+681	passenger681	1.0	1.0	76.7292	C	First	D	Cherbourg	True	male	27.0	yes	1.0	1.0
+682	passenger682	0.0	3.0	9.225	S	Third		Southampton	True	male	20.0	no	1.0	1.0
+683	passenger683	0.0	3.0	46.9	S	Third		Southampton	False	male	14.0	no	0.0	0.0
+684	passenger684	0.0	2.0	39.0	S	Second		Southampton	False	male	60.0	no	1.0	1.0
+685	passenger685	0.0	2.0	41.5792	C	Second		Cherbourg	False	male	25.0	no	1.0	1.0
+686	passenger686	0.0	3.0	39.6875	S	Third		Southampton	False					
+687	passenger687	0.0	3.0	10.1708	S	Third		Southampton	True	male	19.0	no	1.0	1.0
+688	passenger688	0.0	3.0	7.7958	S	Third		Southampton	True					
+689	passenger689	1.0	1.0	211.3375	S	First	B	Southampton	False					
+690	passenger690	1.0	1.0	57.0	S	First	B	Southampton	False	male	31.0	yes	1.0	1.0
+691	passenger691	1.0	3.0	13.4167	C	Third		Cherbourg	False	female	4.0	yes	0.0	0.0
+692	passenger692	1.0	3.0	56.4958	S	Third		Southampton	True	male		yes		
+693	passenger693	0.0	3.0	7.225	C	Third		Cherbourg	True	male	25.0	no	1.0	1.0
+694	passenger694	0.0	1.0	26.55	S	First		Southampton	True	male	60.0	no	1.0	1.0
+695	passenger695	0.0	2.0	13.5	S	Second		Southampton	True	male	52.0	no	1.0	1.0
+696	passenger696	0.0	3.0	8.05	S	Third		Southampton	True	male	44.0	no	1.0	1.0
+697	passenger697	1.0	3.0	7.7333	Q	Third		Queenstown	True	female		yes		
+698	passenger698	0.0	1.0	110.8833	C	First	C	Cherbourg	False	male	49.0	no	1.0	1.0
+699	passenger699	0.0	3.0	7.65	S	Third	F	Southampton	True	male	42.0	no	1.0	1.0
+700	passenger700	1.0	1.0	227.525	C	First	C	Cherbourg	False	female	18.0	yes	1.0	0.0
+701	passenger701	1.0	1.0	26.2875	S	First	E	Southampton	True	male	35.0	yes	1.0	1.0
+702	passenger702	0.0	3.0	14.4542	C	Third		Cherbourg	False					
+703	passenger703	0.0	3.0	7.7417	Q	Third		Queenstown	True	male	25.0	no	1.0	1.0
+704	passenger704	0.0	3.0	7.8542	S	Third		Southampton	False	male	26.0	no	1.0	1.0
+705	passenger705	0.0	2.0	26.0	S	Second		Southampton	True					
+706	passenger706	1.0	2.0	13.5	S	Second		Southampton	True					
+707	passenger707	1.0	1.0	26.2875	S	First	E	Southampton	True	male	42.0	yes	1.0	1.0
+708	passenger708	1.0	1.0	151.55	S	First		Southampton	True	female	22.0	yes	1.0	0.0
+709	passenger709	1.0	3.0	15.2458	C	Third		Cherbourg	False	male		yes		
+710	passenger710	1.0	1.0	49.5042	C	First	C	Cherbourg	True	female	24.0	yes	1.0	0.0
+711	passenger711	0.0	1.0	26.55	S	First	C	Southampton	True	male		no		
+712	passenger712	1.0	1.0	52.0	S	First	C	Southampton	False	male	48.0	yes	1.0	1.0
+713	passenger713	0.0	3.0	9.4833	S	Third		Southampton	True	male	29.0	no	1.0	1.0
+714	passenger714	0.0	2.0	13.0	S	Second		Southampton	True	male	52.0	no	1.0	1.0
+715	passenger715	0.0	3.0	7.65	S	Third	F	Southampton	True					
+716	passenger716	1.0	1.0	227.525	C	First	C	Cherbourg	True	female	38.0	yes	1.0	0.0
+717	passenger717	1.0	2.0	10.5	S	Second	E	Southampton	True	female	27.0	yes	1.0	0.0
+718	passenger718	0.0	3.0	15.5	Q	Third		Queenstown	True	male		no		
+719	passenger719	0.0	3.0	7.775	S	Third		Southampton	True	male	33.0	no	1.0	1.0
+720	passenger720	1.0	2.0	33.0	S	Second		Southampton	False	female	6.0	yes	0.0	0.0
+721	passenger721	0.0	3.0	7.0542	S	Third		Southampton	False	male	17.0	no	0.0	0.0
+722	passenger722	0.0	2.0	13.0	S	Second		Southampton	True	male	34.0	no	1.0	1.0
+723	passenger723	0.0	2.0	13.0	S	Second		Southampton	True	male	50.0	no	1.0	1.0
+724	passenger724	1.0	1.0	53.1	S	First	E	Southampton	False	male	27.0	yes	1.0	1.0
+725	passenger725	0.0	3.0	8.6625	S	Third		Southampton	True	male	20.0	no	1.0	1.0
+726	passenger726	1.0	2.0	21.0	S	Second		Southampton	False	female	30.0	yes	1.0	0.0
+727	passenger727	1.0	3.0	7.7375	Q	Third		Queenstown	True	female		yes		
+728	passenger728	0.0	2.0	26.0	S	Second		Southampton	False	male	25.0	no	1.0	1.0
+729	passenger729	0.0	3.0	7.925	S	Third		Southampton	False	female	25.0	no	1.0	0.0
+730	passenger730	1.0	1.0	211.3375	S	First	B	Southampton	True	female	29.0	yes	1.0	0.0
+731	passenger731	0.0	3.0	18.7875	C	Third		Cherbourg	True	male	11.0	no	0.0	0.0
+732	passenger732	0.0	2.0	0.0	S	Second		Southampton	True	male		no		
+733	passenger733	0.0	2.0	13.0	S	Second		Southampton	True	male	23.0	no	1.0	1.0
+734	passenger734	0.0	2.0	13.0	S	Second		Southampton	True	male	23.0	no	1.0	1.0
+735	passenger735	0.0	3.0	16.1	S	Third		Southampton	True	male	28.5	no	1.0	1.0
+736	passenger736	0.0	3.0	34.375	S	Third		Southampton	False	female	48.0	no	1.0	0.0
+737	passenger737	1.0	1.0	512.3292	C	First	B	Cherbourg	True	male	35.0	yes	1.0	1.0
+738	passenger738	0.0	3.0	7.8958	S	Third		Southampton	True					
+739	passenger739	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+740	passenger740	1.0	1.0	30.0	S	First	D	Southampton	True	male		yes		
+741	passenger741	0.0	1.0	78.85	S	First	C	Southampton	False	male	36.0	no	1.0	1.0
+742	passenger742	1.0	1.0	262.375	C	First	B	Cherbourg	False	female	21.0	yes	1.0	0.0
+743	passenger743	0.0	3.0	16.1	S	Third		Southampton	False	male	24.0	no	1.0	1.0
+744	passenger744	1.0	3.0	7.925	S	Third		Southampton	True					
+745	passenger745	0.0	1.0	71.0	S	First	B	Southampton	False	male	70.0	no	1.0	1.0
+746	passenger746	0.0	3.0	20.25	S	Third		Southampton	False	male	16.0	no	0.0	0.0
+747	passenger747	1.0	2.0	13.0	S	Second		Southampton	True					
+748	passenger748	0.0	1.0	53.1	S	First	D	Southampton	False	male	19.0	no	1.0	1.0
+749	passenger749	0.0	3.0	7.75	Q	Third		Queenstown	True	male	31.0	no	1.0	1.0
+750	passenger750	1.0	2.0	23.0	S	Second		Southampton	False	female	4.0	yes	0.0	0.0
+751	passenger751	1.0	3.0	12.475	S	Third	E	Southampton	False	male	6.0	yes	0.0	0.0
+752	passenger752	0.0	3.0	9.5	S	Third		Southampton	True	male	33.0	no	1.0	1.0
+753	passenger753	0.0	3.0	7.8958	S	Third		Southampton	True	male	23.0	no	1.0	1.0
+754	passenger754	1.0	2.0	65.0	S	Second		Southampton	False	female	48.0	yes	1.0	0.0
+755	passenger755	1.0	2.0	14.5	S	Second		Southampton	False	male	0.67	yes	0.0	0.0
+756	passenger756	0.0	3.0	7.7958	S	Third		Southampton	True	male	28.0	no	1.0	1.0
+757	passenger757	0.0	2.0	11.5	S	Second		Southampton	True	male	18.0	no	1.0	1.0
+758	passenger758	0.0	3.0	8.05	S	Third		Southampton	True	male	34.0	no	1.0	1.0
+759	passenger759	1.0	1.0	86.5	S	First	B	Southampton	True	female	33.0	yes	1.0	0.0
+760	passenger760	0.0	3.0	14.5	S	Third		Southampton	True	male		no		
+761	passenger761	0.0	3.0	7.125	S	Third		Southampton	True	male	41.0	no	1.0	1.0
+762	passenger762	1.0	3.0	7.2292	C	Third		Cherbourg	True	male	20.0	yes	1.0	1.0
+763	passenger763	1.0	1.0	120.0	S	First	B	Southampton	False					
+764	passenger764	0.0	3.0	7.775	S	Third		Southampton	True	male	16.0	no	0.0	0.0
+765	passenger765	1.0	1.0	77.9583	S	First	D	Southampton	False	female	51.0	yes	1.0	0.0
+766	passenger766	0.0	1.0	39.6	C	First		Cherbourg	True	male		no		
+767	passenger767	0.0	3.0	7.75	Q	Third		Queenstown	True	female	30.5	no	1.0	0.0
+768	passenger768	0.0	3.0	24.15	Q	Third		Queenstown	False	male		no		
+769	passenger769	0.0	3.0	8.3625	S	Third		Southampton	True	male	32.0	no	1.0	1.0
+770	passenger770	0.0	3.0	9.5	S	Third		Southampton	True	male	24.0	no	1.0	1.0
+771	passenger771	0.0	3.0	7.8542	S	Third		Southampton	True					
+772	passenger772	0.0	2.0	10.5	S	Second	E	Southampton	True	female	57.0	no	1.0	0.0
+773	passenger773	0.0	3.0	7.225	C	Third		Cherbourg	True	male		no		
+774	passenger774	1.0	2.0	23.0	S	Second		Southampton	False					
+775	passenger775	0.0	3.0	7.75	S	Third		Southampton	True	male	18.0	no	1.0	1.0
+776	passenger776	0.0	3.0	7.75	Q	Third	F	Queenstown	True	male		no		
+777	passenger777	1.0	3.0	12.475	S	Third		Southampton	True	female	5.0	yes	0.0	0.0
+778	passenger778	0.0	3.0	7.7375	Q	Third		Queenstown	True	male		no		
+779	passenger779	1.0	1.0	211.3375	S	First	B	Southampton	False	female	43.0	yes	1.0	0.0
+780	passenger780	1.0	3.0	7.2292	C	Third		Cherbourg	True	female	13.0	yes	0.0	0.0
+781	passenger781	1.0	1.0	57.0	S	First	B	Southampton	False	female	17.0	yes	0.0	0.0
+782	passenger782	0.0	1.0	30.0	S	First	D	Southampton	True	male	29.0	no	1.0	1.0
+783	passenger783	0.0	3.0	23.45	S	Third		Southampton	False	male		no		
+784	passenger784	0.0	3.0	7.05	S	Third		Southampton	True	male	25.0	no	1.0	1.0
+785	passenger785	0.0	3.0	7.25	S	Third		Southampton	True	male	25.0	no	1.0	1.0
+786	passenger786	1.0	3.0	7.4958	S	Third		Southampton	True	female	18.0	yes	1.0	0.0
+787	passenger787	0.0	3.0	29.125	Q	Third		Queenstown	False	male	8.0	no	0.0	0.0
+788	passenger788	1.0	3.0	20.575	S	Third		Southampton	False	male	1.0	yes	0.0	0.0
+789	passenger789	0.0	1.0	79.2	C	First	B	Cherbourg	True	male	46.0	no	1.0	1.0
+790	passenger790	0.0	3.0	7.75	Q	Third		Queenstown	True	male		no		
+791	passenger791	0.0	2.0	26.0	S	Second		Southampton	True	male	16.0	no	0.0	0.0
+792	passenger792	0.0	3.0	69.55	S	Third		Southampton	False	female		no		
+793	passenger793	0.0	1.0	30.6958	C	First		Cherbourg	True	male		no		
+794	passenger794	0.0	3.0	7.8958	S	Third		Southampton	True	male	25.0	no	1.0	1.0
+795	passenger795	0.0	2.0	13.0	S	Second		Southampton	True					
+796	passenger796	1.0	1.0	25.9292	S	First	D	Southampton	True	female	49.0	yes	1.0	0.0
+797	passenger797	1.0	3.0	8.6833	S	Third		Southampton	True	female	31.0	yes	1.0	0.0
+798	passenger798	0.0	3.0	7.2292	C	Third		Cherbourg	True	male	30.0	no	1.0	1.0
+799	passenger799	0.0	3.0	24.15	S	Third		Southampton	False	female	30.0	no	1.0	0.0
+800	passenger800	0.0	2.0	13.0	S	Second		Southampton	True	male	34.0	no	1.0	1.0
+801	passenger801	1.0	2.0	26.25	S	Second		Southampton	False	female	31.0	yes	1.0	0.0
+802	passenger802	1.0	1.0	120.0	S	First	B	Southampton	False	male	11.0	yes	0.0	0.0
+803	passenger803	1.0	3.0	8.5167	C	Third		Cherbourg	False	male	0.42	yes	0.0	0.0
+804	passenger804	1.0	3.0	6.975	S	Third		Southampton	True					
+805	passenger805	0.0	3.0	7.775	S	Third		Southampton	True	male	31.0	no	1.0	1.0
+806	passenger806	0.0	1.0	0.0	S	First	A	Southampton	True	male	39.0	no	1.0	1.0
+807	passenger807	0.0	3.0	7.775	S	Third		Southampton	True	female	18.0	no	1.0	0.0
+808	passenger808	0.0	2.0	13.0	S	Second		Southampton	True	male	39.0	no	1.0	1.0
+809	passenger809	1.0	1.0	53.1	S	First	E	Southampton	False					
+810	passenger810	0.0	3.0	7.8875	S	Third		Southampton	True	male	26.0	no	1.0	1.0
+811	passenger811	0.0	3.0	24.15	S	Third		Southampton	True	male	39.0	no	1.0	1.0
+812	passenger812	0.0	2.0	10.5	S	Second		Southampton	True	male	35.0	no	1.0	1.0
+813	passenger813	0.0	3.0	31.275	S	Third		Southampton	False	female	6.0	no	0.0	0.0
+814	passenger814	0.0	3.0	8.05	S	Third		Southampton	True	male	30.5	no	1.0	1.0
+815	passenger815	0.0	1.0	0.0	S	First	B	Southampton	True	male		no		
+816	passenger816	0.0	3.0	7.925	S	Third		Southampton	True	female	23.0	no	1.0	0.0
+817	passenger817	0.0	2.0	37.0042	C	Second		Cherbourg	False	male	31.0	no	1.0	1.0
+818	passenger818	0.0	3.0	6.45	S	Third		Southampton	True	male	43.0	no	1.0	1.0
+819	passenger819	0.0	3.0	27.9	S	Third		Southampton	False	male	10.0	no	0.0	0.0
+820	passenger820	1.0	1.0	93.5	S	First	B	Southampton	False					
+821	passenger821	1.0	3.0	8.6625	S	Third		Southampton	True	male	27.0	yes	1.0	1.0
+822	passenger822	0.0	1.0	0.0	S	First		Southampton	True	male	38.0	no	1.0	1.0
+823	passenger823	1.0	3.0	12.475	S	Third	E	Southampton	False	female	27.0	yes	1.0	0.0
+824	passenger824	0.0	3.0	39.6875	S	Third		Southampton	False					
+825	passenger825	0.0	3.0	6.95	Q	Third		Queenstown	True	male		no		
+826	passenger826	0.0	3.0	56.4958	S	Third		Southampton	True	male		no		
+827	passenger827	1.0	2.0	37.0042	C	Second		Cherbourg	False	male	1.0	yes	0.0	0.0
+828	passenger828	1.0	3.0	7.75	Q	Third		Queenstown	True	male		yes		
+829	passenger829	1.0	1.0	80.0		First	B		True	female	62.0	yes	1.0	0.0
+830	passenger830	1.0	3.0	14.4542	C	Third		Cherbourg	False	female	15.0	yes	0.0	0.0
+831	passenger831	1.0	2.0	18.75	S	Second		Southampton	False	male	0.83	yes	0.0	0.0
+832	passenger832	0.0	3.0	7.2292	C	Third		Cherbourg	True	male		no		
+833	passenger833	0.0	3.0	7.8542	S	Third		Southampton	True	male	23.0	no	1.0	1.0
+834	passenger834	0.0	3.0	8.3	S	Third		Southampton	True	male	18.0	no	1.0	1.0
+835	passenger835	1.0	1.0	83.1583	C	First	E	Cherbourg	False	female	39.0	yes	1.0	0.0
+836	passenger836	0.0	3.0	8.6625	S	Third		Southampton	True	male	21.0	no	1.0	1.0
+837	passenger837	0.0	3.0	8.05	S	Third		Southampton	True	male		no		
+838	passenger838	1.0	3.0	56.4958	S	Third		Southampton	True	male	32.0	yes	1.0	1.0
+839	passenger839	1.0	1.0	29.7	C	First	C	Cherbourg	True					
+840	passenger840	0.0	3.0	7.925	S	Third		Southampton	True	male	20.0	no	1.0	1.0
+841	passenger841	0.0	2.0	10.5	S	Second		Southampton	True	male	16.0	no	0.0	0.0
+842	passenger842	1.0	1.0	31.0	C	First		Cherbourg	True	female	30.0	yes	1.0	0.0
+843	passenger843	0.0	3.0	6.4375	C	Third		Cherbourg	True	male	34.5	no	1.0	1.0
+844	passenger844	0.0	3.0	8.6625	S	Third		Southampton	True	male	17.0	no	0.0	0.0
+845	passenger845	0.0	3.0	7.55	S	Third		Southampton	True	male	42.0	no	1.0	1.0
+846	passenger846	0.0	3.0	69.55	S	Third		Southampton	False					
+847	passenger847	0.0	3.0	7.8958	C	Third		Cherbourg	True	male	35.0	no	1.0	1.0
+848	passenger848	0.0	2.0	33.0	S	Second		Southampton	False	male	28.0	no	1.0	1.0
+849	passenger849	1.0	1.0	89.1042	C	First	C	Cherbourg	False	female		yes		
+850	passenger850	0.0	3.0	31.275	S	Third		Southampton	False					
+851	passenger851	0.0	3.0	7.775	S	Third		Southampton	True					
+852	passenger852	0.0	3.0	15.2458	C	Third		Cherbourg	False	female	9.0	no	0.0	0.0
+853	passenger853	1.0	1.0	39.4	S	First	D	Southampton	False	female	16.0	yes	0.0	0.0
+854	passenger854	0.0	2.0	26.0	S	Second		Southampton	False	female	44.0	no	1.0	0.0
+855	passenger855	1.0	3.0	9.35	S	Third		Southampton	False	female	18.0	yes	1.0	0.0
+856	passenger856	1.0	1.0	164.8667	S	First		Southampton	False	female	45.0	yes	1.0	0.0
+857	passenger857	1.0	1.0	26.55	S	First	E	Southampton	True	male	51.0	yes	1.0	1.0
+858	passenger858	1.0	3.0	19.2583	C	Third		Cherbourg	False	female	24.0	yes	1.0	0.0
+859	passenger859	0.0	3.0	7.2292	C	Third		Cherbourg	True	male		no		
+860	passenger860	0.0	3.0	14.1083	S	Third		Southampton	False	male	41.0	no	1.0	1.0
+861	passenger861	0.0	2.0	11.5	S	Second		Southampton	False					
+862	passenger862	1.0	1.0	25.9292	S	First	D	Southampton	True	female	48.0	yes	1.0	0.0
+863	passenger863	0.0	3.0	69.55	S	Third		Southampton	False	female		no		
+864	passenger864	0.0	2.0	13.0	S	Second		Southampton	True	male	24.0	no	1.0	1.0
+865	passenger865	1.0	2.0	13.0	S	Second		Southampton	True	female	42.0	yes	1.0	0.0
+866	passenger866	1.0	2.0	13.8583	C	Second		Cherbourg	False	female	27.0	yes	1.0	0.0
+867	passenger867	0.0	1.0	50.4958	S	First	A	Southampton	True	male	31.0	no	1.0	1.0
+868	passenger868	0.0	3.0	9.5	S	Third		Southampton	True	male		no		
+869	passenger869	1.0	3.0	11.1333	S	Third		Southampton	False	male	4.0	yes	0.0	0.0
+870	passenger870	0.0	3.0	7.8958	S	Third		Southampton	True	male	26.0	no	1.0	1.0
+871	passenger871	1.0	1.0	52.5542	S	First	D	Southampton	False	female	47.0	yes	1.0	0.0
+872	passenger872	0.0	1.0	5.0	S	First	B	Southampton	True	male	33.0	no	1.0	1.0
+873	passenger873	0.0	3.0	9.0	S	Third		Southampton	True	male	47.0	no	1.0	1.0
+874	passenger874	1.0	2.0	24.0	C	Second		Cherbourg	False	female	28.0	yes	1.0	0.0
+875	passenger875	1.0	3.0	7.225	C	Third		Cherbourg	True	female	15.0	yes	0.0	0.0
+876	passenger876	0.0	3.0	9.8458	S	Third		Southampton	True	male	20.0	no	1.0	1.0
+877	passenger877	0.0	3.0	7.8958	S	Third		Southampton	True	male	19.0	no	1.0	1.0
+878	passenger878	0.0	3.0	7.8958	S	Third		Southampton	True	male		no		
+879	passenger879	1.0	1.0	83.1583	C	First	C	Cherbourg	False	female	56.0	yes	1.0	0.0
+880	passenger880	1.0	2.0	26.0	S	Second		Southampton	False	female	25.0	yes	1.0	0.0
+881	passenger881	0.0	3.0	7.8958	S	Third		Southampton	True	male	33.0	no	1.0	1.0
+882	passenger882	0.0	3.0	10.5167	S	Third		Southampton	True	female	22.0	no	1.0	0.0
+883	passenger883	0.0	2.0	10.5	S	Second		Southampton	True	male	28.0	no	1.0	1.0
+884	passenger884	0.0	3.0	7.05	S	Third		Southampton	True	male	25.0	no	1.0	1.0
+885	passenger885	0.0	3.0	29.125	Q	Third		Queenstown	False	female	39.0	no	1.0	0.0
+886	passenger886	0.0	2.0	13.0	S	Second		Southampton	True	male	27.0	no	1.0	1.0
+887	passenger887	1.0	1.0	30.0	S	First	B	Southampton	True	female	19.0	yes	1.0	0.0
+888	passenger888	0.0	3.0	23.45	S	Third		Southampton	False	female		no		
+889	passenger889	1.0	1.0	30.0	C	First	C	Cherbourg	True	male	26.0	yes	1.0	1.0
+890	passenger890	0.0	3.0	7.75	Q	Third		Queenstown	True					
+mean		0.3838383838383838	2.308641975308642	32.2042079685746					0.6026936026936027		29.358984375		1.0	0.0
+stdev		0.48631931786710086	0.8356019334795189	49.66553444477411							14.419030471906085		0.0	0.0
