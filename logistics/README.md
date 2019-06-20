@@ -1,7 +1,8 @@
 # Logistics
 
-### Tentative dates for upcoming tutorials:
+### Upcoming coding club:
  
+**June 27th:** BioC symposium @ NYU and Rockefeller: http://bioc2019.bioconductor.org/schedule-developer-day  
 **July 18th:** Intro data analysis and ggplot, Tosh Cornwell SB1320
 
 ### Invite to slack:
