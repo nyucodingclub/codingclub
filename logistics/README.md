@@ -2,7 +2,6 @@
 
 ### Tentative dates for upcoming tutorials:
  
-**June 27th:** Study hall, SB 1320
 **July 18th:** Intro data analysis and ggplot, Tosh Cornwell SB1320
 
 ### Invite to slack:
