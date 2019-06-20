@@ -2,10 +2,8 @@
 
 ### Tentative dates for upcoming tutorials:
  
-**May 30th:** Cancelled
-**June 4th:** Study hall
-**TBD:** Docker/singularity and productivity tools, Vincent Major, SB 1320  
-
+**June 27th:** Study hall, SB 1320
+**July 18th:** Intro data analysis and ggplot, Tosh Cornwell SB1320
 
 ### Invite to slack:
 https://join.slack.com/t/codingclubnyulmc/shared_invite/enQtNjI1MzEzMzk4NjYzLTFmMDhmY2UyNDNjMTVmODczZTljOTg3NzViYjJmYTgwNDQ1YzkzZDljODczNDAyYWU0YjFjOWMwYTkwZDAxOTM
