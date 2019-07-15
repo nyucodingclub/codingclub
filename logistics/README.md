@@ -1,12 +1,9 @@
 # Logistics
 
-### Tentative dates for upcoming tutorials:
-
-**May 16th:** Git and github tutorial, Sarah Shaykevich, SB 909   
-**May 23rd:** Intro to pandas in python, Lili Blumenberg, SB 1320  
-**May 30th:** Data analysis in R, Kit McDonald, SB 1320  
-**June 4th:** Docker/singularity and productivity tools, Vincent Major, SB 1320  
-
+### Upcoming coding club:
+ 
+**June 27th:** BioC symposium @ NYU and Rockefeller: http://bioc2019.bioconductor.org/schedule-developer-day  
+**July 18th:** Intro data analysis and ggplot, Tosh Cornwell SB1320 RSVP:https://forms.gle/5kuXPiQLoLwLwGAZ6  
 
 ### Invite to slack:
 https://join.slack.com/t/codingclubnyulmc/shared_invite/enQtNjI1MzEzMzk4NjYzLTFmMDhmY2UyNDNjMTVmODczZTljOTg3NzViYjJmYTgwNDQ1YzkzZDljODczNDAyYWU0YjFjOWMwYTkwZDAxOTM
@@ -15,5 +12,5 @@ https://join.slack.com/t/codingclubnyulmc/shared_invite/enQtNjI1MzEzMzk4NjYzLTFm
 ### Previous tutorials
 
 **April 18th:** Seq-n-slide (Igor Dolgalev) https://github.com/igordot/sns  
-
-
+**May 16th:** Git and github tutorial, Sarah Shaykevich, SB 909   
+**May 23rd:** Intro to pandas in python, Lili Blumenberg, https://github.com/nyucodingclub/codingclub
