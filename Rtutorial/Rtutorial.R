@@ -1,7 +1,7 @@
-################################
+##########################################
 # Name: MacIntosh Cornwell
-# Email: mcornwell1957@gmail.com
-################################
+# Email: macintosh.cornwell@nyulangone.org
+##########################################
 ## This is an R Tutorial used for the purposes of demonstrating basic R functions, in addition to a few modules that work with data manipulation, plotting, and differential expression
 
 ## Load in Libraries
@@ -21,14 +21,14 @@
 
 ## Read in the local files
 # Define the file that we are reading in:
-intablefile = "/Users/tosh/Desktop/Ruggles_Lab/codingclub/Rtutorial/GSE94493_ER_Mutants_Cufflinks_Gene_Counts.csv"
+intablefile = "/Users/mgc439/Code/codingclub/Rtutorial/GSE94493_ER_Mutants_Cufflinks_Gene_Counts.csv"
 # Read in the file as a table, our file has a HEADER - so set this to true, and we want to use the FIRST column as ROW NAMES - so we set row.names=1, and the separator for this file is a COMMA (its a CSV - comma separated values) (NOTE - if this was a tab separated file (txt) then the separator is a "\t")
 intable = read.table(intablefile, header=TRUE, row.names = 1, sep=",")
 
 
 # Repeat for the metadata - NOTE though that we arent assigning row names here
 # we are also adding a flag here - stringsAsFactors = FALSE - this is a little outside the scope of a tutorial, but for now, make sure to include this when reading in tables so that all of your strings as read as strings!! (maybe more on this later..)
-inmetafile = "/Users/tosh/Desktop/Ruggles_Lab/code/Rtutorial/rtutorial_metadata.csv"
+inmetafile = "/Users/mgc439/Code/codingclub/Rtutorial/rtutorial_metadata.csv"
 metatable = read.table(inmetafile, header=TRUE, sep=",", stringsAsFactors = FALSE)
 
 
@@ -148,7 +148,7 @@ print(pout)
 ## Now lets get a little fancier - I want to know which of these plots belong to which metadata category, add trendlines, alter shapes, label my points, etc.. so here is how you can do all of these things!
 ## Add labels that automatically shift away from the points
 ## Before we do anything - we have to download the ggplot2 package - this can be done either via CONDA or via the R COMMAND LINE
-# install.packages("ggrepel")
+install.packages("ggrepel")
 # """ conda install r-ggrepel """
 library(ggrepel)
 pout = ggplot(data = plottab1, mapping = aes(x = plottab1[,2], y = plottab1[,3], label = plottab1[,1]))
@@ -193,7 +193,7 @@ pout = pout + geom_text(inherit.aes = FALSE, label = lm_eqn(plottab1[,c(2:3)]), 
 print(pout)
 
 ## Saving a plot out - define the outfile, open it up, print the plot to it, and close the pdf
-outfile = "/Users/tosh/Desktop/Ruggles_Lab/codingclub/Rtutorial/outscatterplot.pdf"
+outfile = "/Users/mgc439/Code/codingclub/Rtutorial/outscatterplot.pdf"
 pdf(outfile)
 print(pout)
 junk = dev.off()
@@ -224,10 +224,10 @@ pout = pout + geom_point(data = plottab2, aes(x=plottab2[,3], y=plottab2[,4], fi
 print(pout)
 
 ## Now lets add signifigance levels (the things that everyone always wants)
-# install.packages("ggpubr")
+install.packages("ggpubr")
 # """ conda install r-ggpubr """
-# install.packages("ggpubr")
-# """ conda install r-ggpubr """
+install.packages("ggsignif")
+# """ conda install r-ggsignif """
 library("ggpubr")
 library("ggsignif")
 
@@ -257,7 +257,7 @@ print(pout)
 
 
 ## Saving a plot out - define the outfile, open it up, print the plot to it, and close the pdf
-outfile = "/Users/tosh/Desktop/Ruggles_Lab/codingclub/Rtutorial/boxplot.pdf"
+outfile = "/Users/mgc439/Code/codingclub/Rtutorial/boxplot.pdf"
 pdf(outfile)
 print(pout)
 junk = dev.off()
@@ -267,6 +267,13 @@ junk = dev.off()
 dim(intablefilt2) # this is the count table we are going to use
 dim(metatablefilt) # this is the metadata that we are going to put on our heatmap
 ## Now - heres the thing with super detailed ana beautiful heatmaps - they are HARD. more detail = more work, and although there are one liners out there to make heatmaps, if you really want to have full control over all the things you put into a heatmap - then you have to actually code each of those things you control. Along those lines, I think the best and most comprehensive heatmap package out there is ComplexHeatmap. People have different opinions - this is just mine, and I will show you how to use it
+## Now lets add signifigance levels (the things that everyone always wants)
+
+## NOTE - here that ComplexHeatmap - the package we are using, is from bioconductor - a large repository/organization of R packages specifically built for the biological sciences. Note that they use their own package manager - BiocManager, so we have to install that first
+install.packages("BiocManager")
+library(BiocManager)
+install("ComplexHeatmap")
+# """ conda install bioconductor-complexheatmap """
 library("ComplexHeatmap")
 # https://jokergoo.github.io/ComplexHeatmap-reference/book/introduction.html - a VERY VERY COMPREHENSIVE AND GOOD GUIDE on how to use this.
 
@@ -274,7 +281,7 @@ library("ComplexHeatmap")
 # NOTE though that this will take a long time and not look very good.. why? run it and then read the reasons below
 
 outhm = Heatmap(intablefilt2)
-outhmfile = "/Users/tosh/Desktop/Ruggles_Lab/codingclub/Rtutorial/outheatmap.pdf"
+outhmfile = "/Users/mgc439/Code/codingclub/Rtutorial/outheatmap.pdf"
 pdf(outhmfile)
 print(outhm)
 junk <- dev.off()
@@ -322,7 +329,7 @@ outhm = Heatmap(hmplottabscaled,
                                             title_gp = gpar(fontsize = 8, fontface = "bold"))
                 )
 
-outhmfile = "/Users/tosh/Desktop/Ruggles_Lab/codingclub/Rtutorial/outheatmap.pdf"
+outhmfile = "/Users/mgc439/Code/codingclub/Rtutorial/outheatmap.pdf"
 pdf(outhmfile)
 print(outhm)
 junk <- dev.off()
@@ -366,7 +373,7 @@ outhm = Heatmap(hmplottabscaled,
                 top_annotation = hatop
 )
 
-outhmfile = "/Users/tosh/Desktop/Ruggles_Lab/codingclub/Rtutorial/outheatmap.pdf"
+outhmfile = "/Users/mgc439/Code/codingclub/Rtutorial/outheatmap.pdf"
 pdf(outhmfile)
 print(outhm)
 junk <- dev.off()
@@ -383,8 +390,9 @@ junk <- dev.off()
 
 
 
-## WRITE HEATMAP FUNCTION - fully finished and functional - this is the reward for making it all the way to the end. This is a highly customized and functionalized heatmap function that allows you to do a number of things by just changing the input parameters. This includes column AND row annotations, turning on and off the clstering, subsetting the number of top genes to use, etc. NOTE that it has a bunch of hidden automatic things to that will adjust the heatmap to fit funky names and data. It's not perfect (functions never are and they will break with something) - but it allows you to do a lot of heatmaps quickly by just changing the parameeters
+## WRITE HEATMAP FUNCTION - fully finished and functional - This is a highly customized and functionalized heatmap function that allows you to do a number of things by just changing the input parameters. This includes column AND row annotations, turning on and off the clstering, subsetting the number of top genes to use, etc. NOTE that it has a bunch of hidden automatic things to that will adjust the heatmap to fit funky names and data. It's not perfect (functions never are and they will break with something) - but it allows you to do a lot of heatmaps quickly by just changing the parameeters
 ## Load in Libraries
+install.packages("viridis")
 packagelist = c("ggplot2", "reshape2", "grid", "gridExtra", "scales", "ggrepel", "circlize", "viridis", "RColorBrewer", "tools", "ggpubr", "ggsignif")
 junk <- lapply(packagelist, function(xxx) suppressMessages(require(xxx, character.only = TRUE,quietly=TRUE,warn.conflicts = FALSE)))
 
@@ -569,11 +577,11 @@ annotationlist_builder <- function(metatable, customcolorlist = NULL) {
 
 ## Now run it!
 annotationlist1 = annotationlist_builder(annotationtab)
-outhmfiletest = "/Users/tosh/Desktop/Ruggles_Lab/codingclub/Rtutorial/outheatmap_test.pdf"
+outhmfiletest = "/Users/mgc439/Code/codingclub/Rtutorial/outheatmap_test.pdf"
 create_heatmap(intablefilt2, samplesample = FALSE, subsetnum = 1000, colmetatable = annotationtab, colannotationlist = annotationlist1,
                colclusterparam = TRUE, rowclusterparam = TRUE, pdfoutfile = outhmfiletest)
 
-outhmfileSStest = "/Users/tosh/Desktop/Ruggles_Lab/codingclub/Rtutorial/outheatmap_SS_test.pdf"
+outhmfileSStest = "/Users/mgc439/Code/codingclub/Rtutorial/outheatmap_SS_test.pdf"
 create_heatmap(counttab = intablefilt2, samplesample = TRUE, subsetnum = 1000, colmetatable = annotationtab, colannotationlist = annotationlist1,
                colclusterparam = TRUE, rowclusterparam = TRUE, pdfoutfile = outhmfileSStest)
 
