@@ -1,2 +1,5 @@
 Icon
 .ipynb_checkpoints/*
+#*
+~*
+.Rhistory
